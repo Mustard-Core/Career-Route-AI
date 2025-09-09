@@ -1,0 +1,2001 @@
+Primary_Language,Secondary_Language,Lang_3,Lang_4,Lang_5,Lang_6,framework,Best_fit_Job
+C#,C/C++,,,,,None,Game Developer
+Java,C#,,JavaScript,SQL,PHP,None,Mobile App Developer (Android)
+Java,Kotlin,,,Python,,React,Mobile App Developer (Android)
+C#,Kotlin,,SQL,,,None,Mobile App Developer (Android)
+C/C++,PHP,,,,,None,Game Developer
+C/C++,Java,,,,,None,Game Developer
+Python,,,C#,,,None,Cybersecurity Analyst
+C/C++,Java,,SQL,Swift,PHP,React,Mobile App Developer (iOS)
+Java,C#,,SQL,Kotlin,,React,Mobile App Developer (Android)
+C#,Swift,PHP,Kotlin,C/C++,,None,Mobile App Developer (iOS)
+Python,Java,C#,JavaScript,HTML/CSS,,None,Cybersecurity Analyst
+C#,Swift,,,,,None,Mobile App Developer (iOS)
+JavaScript,C/C++,,,,,None,Front-End Developer
+C/C++,C#,,Kotlin,,,None,Mobile App Developer (Android)
+Python,Swift,,SQL,HTML/CSS,Kotlin,React,Mobile App Developer (iOS)
+Java,Swift,,,,Kotlin,None,Mobile App Developer (iOS)
+C#,Java,,,,,None,Game Developer
+Java,Swift,,,,,None,Mobile App Developer (iOS)
+JavaScript,HTML/CSS,,Swift,,C/C++,React,Mobile App Developer (iOS)
+JavaScript,C#,,C/C++,,,React,Front-End Developer
+Java,C/C++,,SQL,,,React,Mobile App Developer (Android)
+Python,PHP,,,,,None,Cybersecurity Analyst
+Java,Python,,PHP,JavaScript,Kotlin,None,Mobile App Developer (Android)
+Python,PHP,Java,Kotlin,,,React,Mobile App Developer (Android)
+C#,Java,,,,,None,Game Developer
+Java,SQL,,,,,None,Mobile App Developer (Android)
+Python,,,Java,,,None,Cybersecurity Analyst
+JavaScript,C/C++,Swift,PHP,Java,HTML/CSS,None,Mobile App Developer (iOS)
+Java,Swift,JavaScript,Kotlin,Python,HTML/CSS,None,Mobile App Developer (iOS)
+JavaScript,Swift,,HTML/CSS,,C#,None,Mobile App Developer (iOS)
+JavaScript,SQL,,HTML/CSS,,,None,Database Administrator
+C/C++,Python,,,JavaScript,Java,None,Game Developer
+C#,Java,JavaScript,PHP,,,None,Game Developer
+C/C++,JavaScript,,,,,None,Game Developer
+C#,Java,,,JavaScript,,None,Game Developer
+C/C++,C#,,,,,None,Game Developer
+Python,JavaScript,,SQL,,,None,Database Administrator
+C/C++,Python,,,,JavaScript,None,Game Developer
+JavaScript,Java,,HTML/CSS,,,React,Front-End Developer
+JavaScript,Java,Swift,,Kotlin,PHP,None,Mobile App Developer (iOS)
+Python,Kotlin,Java,PHP,,,None,Mobile App Developer (Android)
+C/C++,Kotlin,HTML/CSS,Java,PHP,SQL,None,Mobile App Developer (Android)
+Java,HTML/CSS,SQL,C#,C/C++,PHP,React,Mobile App Developer (Android)
+C#,JavaScript,,PHP,SQL,Java,None,Database Administrator
+Java,JavaScript,Swift,,C/C++,SQL,None,Mobile App Developer (iOS)
+JavaScript,C/C++,,,,Python,None,Front-End Developer
+JavaScript,HTML/CSS,SQL,C#,C/C++,,None,Database Administrator
+Python,C#,SQL,C/C++,,,None,Database Administrator
+C/C++,Python,,,Java,,None,Game Developer
+C#,Python,,,,C/C++,None,Game Developer
+JavaScript,SQL,,Kotlin,,PHP,None,Mobile App Developer (Android)
+C/C++,SQL,Swift,Java,,HTML/CSS,None,Mobile App Developer (iOS)
+C/C++,Java,Python,JavaScript,,,None,Game Developer
+C#,Java,,JavaScript,HTML/CSS,,None,Game Developer
+C#,HTML/CSS,,,Python,,None,Game Developer
+JavaScript,Java,C/C++,,,HTML/CSS,None,Front-End Developer
+C/C++,PHP,,Java,,,None,Game Developer
+C#,SQL,Python,Swift,,,None,Mobile App Developer (iOS)
+Java,C#,,Swift,JavaScript,,None,Mobile App Developer (iOS)
+C#,PHP,Kotlin,,SQL,Swift,React,Mobile App Developer (iOS)
+JavaScript,PHP,Kotlin,,,,None,Mobile App Developer (Android)
+Python,C#,HTML/CSS,PHP,,,None,Cybersecurity Analyst
+JavaScript,Java,C/C++,Swift,,,None,Mobile App Developer (iOS)
+C#,Python,,SQL,Kotlin,,None,Mobile App Developer (Android)
+Python,HTML/CSS,C#,,JavaScript,,None,Cybersecurity Analyst
+Java,SQL,C#,PHP,,,React,Mobile App Developer (Android)
+Python,PHP,,,,,None,Cybersecurity Analyst
+C/C++,Swift,,,,Java,None,Mobile App Developer (iOS)
+JavaScript,Java,,,,,React,Front-End Developer
+Python,C#,,Kotlin,,,None,Mobile App Developer (Android)
+C#,SQL,HTML/CSS,Java,,,None,Database Administrator
+Python,SQL,Kotlin,Swift,,,None,Mobile App Developer (iOS)
+Java,,,,,C/C++,None,Mobile App Developer (Android)
+C/C++,,HTML/CSS,PHP,Python,Swift,React,Mobile App Developer (iOS)
+JavaScript,PHP,,,,,React,Front-End Developer
+C/C++,SQL,,PHP,Python,,None,Database Administrator
+JavaScript,C#,Python,SQL,,HTML/CSS,None,Database Administrator
+C/C++,PHP,,,HTML/CSS,Java,None,Game Developer
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+Python,JavaScript,PHP,,,,None,Cybersecurity Analyst
+C/C++,PHP,,,Python,,None,Game Developer
+Python,HTML/CSS,C#,,,C/C++,None,Cybersecurity Analyst
+Python,PHP,Java,,SQL,,None,Database Administrator
+JavaScript,PHP,C/C++,Java,,C#,React,Front-End Developer
+C/C++,Java,,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,Python,,,,,None,Front-End Developer
+Python,Swift,PHP,HTML/CSS,Java,,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,PHP,,C#,,None,Game Developer
+C/C++,Kotlin,C#,Java,PHP,HTML/CSS,React,Mobile App Developer (Android)
+C/C++,PHP,HTML/CSS,Swift,,,React,Mobile App Developer (iOS)
+JavaScript,SQL,C#,Java,,,None,Database Administrator
+C/C++,JavaScript,SQL,,PHP,Java,None,Database Administrator
+JavaScript,,,,,,React,Front-End Developer
+Java,,,,C#,,React,Mobile App Developer (Android)
+C#,JavaScript,,C/C++,,,None,Game Developer
+C/C++,Swift,HTML/CSS,,Python,,React,Mobile App Developer (iOS)
+Java,HTML/CSS,Kotlin,,,,None,Mobile App Developer (Android)
+Java,SQL,,C#,,,None,Mobile App Developer (Android)
+Java,Python,,,Kotlin,JavaScript,React,Mobile App Developer (Android)
+C#,PHP,JavaScript,Swift,,Kotlin,React,Mobile App Developer (iOS)
+C/C++,Kotlin,JavaScript,,,Python,React,Mobile App Developer (Android)
+JavaScript,Python,Java,,,,React,Front-End Developer
+Java,PHP,HTML/CSS,,,,React,Mobile App Developer (Android)
+C#,Swift,,Python,JavaScript,SQL,React,Mobile App Developer (iOS)
+C/C++,Python,Kotlin,JavaScript,,,None,Mobile App Developer (Android)
+JavaScript,Swift,,,C#,C/C++,None,Mobile App Developer (iOS)
+JavaScript,Java,,,C#,,React,Front-End Developer
+C/C++,Python,,HTML/CSS,,,None,Game Developer
+C/C++,HTML/CSS,,C#,,,None,Game Developer
+Python,Swift,PHP,,C#,,None,Mobile App Developer (iOS)
+C#,PHP,,Swift,JavaScript,,None,Mobile App Developer (iOS)
+JavaScript,C/C++,,Swift,SQL,,None,Mobile App Developer (iOS)
+Java,C/C++,,JavaScript,,,React,Mobile App Developer (Android)
+Python,Swift,,,Kotlin,,React,Mobile App Developer (iOS)
+JavaScript,C#,SQL,,Java,,None,Database Administrator
+C/C++,PHP,,,,,None,Game Developer
+C/C++,Swift,,C#,,,None,Mobile App Developer (iOS)
+Python,SQL,Swift,,HTML/CSS,PHP,React,Mobile App Developer (iOS)
+JavaScript,PHP,,,Python,,React,Front-End Developer
+Java,PHP,HTML/CSS,Python,,,React,Mobile App Developer (Android)
+Java,C/C++,PHP,,,,React,Mobile App Developer (Android)
+Java,JavaScript,,,C/C++,PHP,React,Mobile App Developer (Android)
+C#,HTML/CSS,,,SQL,C/C++,None,Database Administrator
+C#,JavaScript,,,HTML/CSS,,None,Game Developer
+Python,JavaScript,,,Java,,None,Cybersecurity Analyst
+C/C++,PHP,,Kotlin,,Swift,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,JavaScript,,,,None,Game Developer
+JavaScript,Kotlin,Swift,,,,None,Mobile App Developer (iOS)
+Python,,,,JavaScript,Swift,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,,,,,None,Game Developer
+Java,,Swift,,,C/C++,React,Mobile App Developer (iOS)
+Python,JavaScript,PHP,C#,,,None,Cybersecurity Analyst
+Python,SQL,,,JavaScript,Kotlin,None,Mobile App Developer (Android)
+C/C++,,Python,,Java,JavaScript,None,Game Developer
+C/C++,Java,C#,,,SQL,None,Database Administrator
+Java,Swift,,,HTML/CSS,,None,Mobile App Developer (iOS)
+JavaScript,C#,,Python,,HTML/CSS,React,Front-End Developer
+C/C++,JavaScript,,Kotlin,,,React,Mobile App Developer (Android)
+Python,SQL,,,JavaScript,,None,Database Administrator
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+Python,SQL,,,C#,,None,Database Administrator
+C/C++,JavaScript,Kotlin,PHP,Java,,None,Mobile App Developer (Android)
+C#,Kotlin,Python,,,,None,Mobile App Developer (Android)
+Java,,SQL,,HTML/CSS,,None,Mobile App Developer (Android)
+C/C++,Java,Python,JavaScript,,,None,Game Developer
+C/C++,SQL,,Swift,,JavaScript,None,Mobile App Developer (iOS)
+C/C++,SQL,Kotlin,,Python,Swift,React,Mobile App Developer (iOS)
+JavaScript,Kotlin,,C/C++,PHP,,None,Mobile App Developer (Android)
+Python,HTML/CSS,Java,,,,None,Cybersecurity Analyst
+JavaScript,Java,,Swift,C/C++,Kotlin,None,Mobile App Developer (iOS)
+Python,C/C++,,,,,None,Cybersecurity Analyst
+C/C++,C#,Swift,SQL,,,None,Mobile App Developer (iOS)
+C#,HTML/CSS,,,,,None,Game Developer
+JavaScript,SQL,,C#,,,None,Database Administrator
+C#,C/C++,SQL,,,Swift,None,Mobile App Developer (iOS)
+Python,SQL,,Kotlin,,C/C++,None,Mobile App Developer (Android)
+Java,Python,,,Swift,,None,Mobile App Developer (iOS)
+JavaScript,HTML/CSS,,,,C/C++,React,Front-End Developer
+Java,Python,JavaScript,HTML/CSS,,,None,Mobile App Developer (Android)
+Java,C#,JavaScript,SQL,Python,PHP,None,Mobile App Developer (Android)
+Java,Kotlin,PHP,,,SQL,None,Mobile App Developer (Android)
+C#,HTML/CSS,Java,,,Kotlin,React,Mobile App Developer (Android)
+C#,C/C++,,,,Python,None,Game Developer
+C#,PHP,HTML/CSS,,C/C++,,None,Game Developer
+C/C++,HTML/CSS,Swift,Java,,,None,Mobile App Developer (iOS)
+Java,JavaScript,,SQL,C#,,React,Mobile App Developer (Android)
+JavaScript,Python,,Kotlin,,Swift,None,Mobile App Developer (iOS)
+Java,,,,Kotlin,JavaScript,None,Mobile App Developer (Android)
+JavaScript,Kotlin,C#,,HTML/CSS,Swift,None,Mobile App Developer (iOS)
+C/C++,Python,,HTML/CSS,,,None,Game Developer
+Python,JavaScript,,Java,,,None,Cybersecurity Analyst
+C/C++,Python,,,,,None,Game Developer
+Python,,PHP,,Java,,None,Cybersecurity Analyst
+Java,,,,PHP,,React,Mobile App Developer (Android)
+C#,,,,,,None,Game Developer
+JavaScript,C/C++,,Java,SQL,,None,Database Administrator
+C/C++,Python,HTML/CSS,Swift,,Kotlin,React,Mobile App Developer (iOS)
+C#,HTML/CSS,Kotlin,,,C/C++,React,Mobile App Developer (Android)
+C#,Kotlin,SQL,,,Python,None,Mobile App Developer (Android)
+C/C++,SQL,,JavaScript,,,None,Database Administrator
+Python,HTML/CSS,Kotlin,,SQL,,None,Mobile App Developer (Android)
+C/C++,Kotlin,JavaScript,,PHP,Java,None,Mobile App Developer (Android)
+JavaScript,Kotlin,,PHP,,,None,Mobile App Developer (Android)
+C#,SQL,,PHP,Java,,None,Database Administrator
+JavaScript,Java,,,,Python,React,Front-End Developer
+Java,SQL,,Kotlin,,,React,Mobile App Developer (Android)
+Java,Swift,Kotlin,C#,HTML/CSS,C/C++,None,Mobile App Developer (iOS)
+Java,HTML/CSS,Python,SQL,C/C++,,None,Mobile App Developer (Android)
+C#,JavaScript,Python,C/C++,Swift,PHP,None,Mobile App Developer (iOS)
+C#,Python,,,,,None,Game Developer
+C/C++,PHP,,,,,None,Game Developer
+C#,Swift,,,,,React,Mobile App Developer (iOS)
+Python,C/C++,JavaScript,,,,None,Cybersecurity Analyst
+JavaScript,PHP,,C#,Kotlin,SQL,None,Mobile App Developer (Android)
+JavaScript,PHP,Python,,SQL,C#,None,Database Administrator
+Java,Kotlin,Python,HTML/CSS,,,React,Mobile App Developer (Android)
+JavaScript,Kotlin,,PHP,,C#,None,Mobile App Developer (Android)
+Java,JavaScript,Swift,C#,,,None,Mobile App Developer (iOS)
+Java,Swift,,,,,React,Mobile App Developer (iOS)
+C#,Kotlin,,,HTML/CSS,Swift,None,Mobile App Developer (iOS)
+C#,Python,,,,JavaScript,None,Game Developer
+C/C++,PHP,JavaScript,,,Kotlin,React,Mobile App Developer (Android)
+Java,Kotlin,Python,SQL,,,React,Mobile App Developer (Android)
+Java,HTML/CSS,,,,,React,Mobile App Developer (Android)
+JavaScript,Python,,,SQL,C#,None,Database Administrator
+JavaScript,C#,,,,Kotlin,React,Mobile App Developer (Android)
+Java,Python,,,,,None,Mobile App Developer (Android)
+C/C++,JavaScript,,Python,SQL,,None,Database Administrator
+Java,Kotlin,SQL,,,,None,Mobile App Developer (Android)
+C#,C/C++,HTML/CSS,Java,Kotlin,,None,Mobile App Developer (Android)
+C#,Java,Python,,,,None,Game Developer
+Python,C#,,,,Swift,None,Mobile App Developer (iOS)
+C#,Kotlin,JavaScript,PHP,,,None,Mobile App Developer (Android)
+Java,Python,,,Swift,Kotlin,None,Mobile App Developer (iOS)
+C#,Swift,,,,PHP,None,Mobile App Developer (iOS)
+C/C++,PHP,,,,JavaScript,None,Game Developer
+C/C++,PHP,Kotlin,,,SQL,None,Mobile App Developer (Android)
+Python,C/C++,,,,,None,Cybersecurity Analyst
+Python,C#,Kotlin,,,,React,Mobile App Developer (Android)
+Python,SQL,,,HTML/CSS,Swift,None,Mobile App Developer (iOS)
+C/C++,,,,,,None,Game Developer
+Python,JavaScript,,,PHP,C/C++,None,Cybersecurity Analyst
+JavaScript,HTML/CSS,Python,,,Kotlin,React,Mobile App Developer (Android)
+Python,JavaScript,,HTML/CSS,PHP,,None,Cybersecurity Analyst
+C/C++,,,,,,None,Game Developer
+Java,,,,,,None,Mobile App Developer (Android)
+Python,Swift,JavaScript,,,,None,Mobile App Developer (iOS)
+Java,C#,Swift,,PHP,Kotlin,React,Mobile App Developer (iOS)
+C/C++,PHP,C#,,Swift,,None,Mobile App Developer (iOS)
+C/C++,Kotlin,C#,,,,None,Mobile App Developer (Android)
+C/C++,Kotlin,,,,Java,None,Mobile App Developer (Android)
+JavaScript,Python,,Java,,PHP,None,Front-End Developer
+Java,JavaScript,C#,,PHP,Python,None,Mobile App Developer (Android)
+C/C++,SQL,Python,HTML/CSS,Kotlin,JavaScript,None,Mobile App Developer (Android)
+Python,Java,,,C/C++,,None,Cybersecurity Analyst
+C/C++,C#,Swift,,,,React,Mobile App Developer (iOS)
+Python,C#,,,,SQL,None,Database Administrator
+Python,Java,JavaScript,,C#,,None,Cybersecurity Analyst
+C#,JavaScript,,Kotlin,,Java,None,Mobile App Developer (Android)
+JavaScript,Java,,Kotlin,,,None,Mobile App Developer (Android)
+Java,HTML/CSS,,Swift,,,React,Mobile App Developer (iOS)
+Java,Kotlin,,,,,React,Mobile App Developer (Android)
+C/C++,,,,Swift,,None,Mobile App Developer (iOS)
+C/C++,Python,,,,,None,Game Developer
+C/C++,HTML/CSS,Swift,,PHP,,None,Mobile App Developer (iOS)
+Java,JavaScript,Swift,,,,None,Mobile App Developer (iOS)
+JavaScript,,,C#,,Java,None,Front-End Developer
+JavaScript,SQL,,,HTML/CSS,,None,Database Administrator
+C/C++,Python,HTML/CSS,,SQL,,None,Database Administrator
+C#,SQL,,Java,JavaScript,Swift,None,Mobile App Developer (iOS)
+JavaScript,Swift,,C/C++,Kotlin,HTML/CSS,React,Mobile App Developer (iOS)
+Python,,,HTML/CSS,C#,,None,Cybersecurity Analyst
+Python,Java,JavaScript,SQL,HTML/CSS,,None,Database Administrator
+JavaScript,,,,Java,,None,Front-End Developer
+JavaScript,PHP,HTML/CSS,,,,None,Front-End Developer
+JavaScript,PHP,,,Python,HTML/CSS,React,Front-End Developer
+C/C++,Java,,Swift,,PHP,None,Mobile App Developer (iOS)
+Java,C#,,,,,React,Mobile App Developer (Android)
+Java,PHP,HTML/CSS,JavaScript,,C#,None,Mobile App Developer (Android)
+Python,C#,,,,,None,Cybersecurity Analyst
+C#,PHP,,,JavaScript,,None,Game Developer
+C#,Kotlin,Java,HTML/CSS,SQL,,None,Mobile App Developer (Android)
+C/C++,Python,,,Kotlin,Java,None,Mobile App Developer (Android)
+Java,JavaScript,Swift,,Kotlin,C/C++,React,Mobile App Developer (iOS)
+C/C++,Kotlin,,,Python,,None,Mobile App Developer (Android)
+C#,Python,Swift,,,,React,Mobile App Developer (iOS)
+C/C++,SQL,JavaScript,,,,None,Database Administrator
+C#,HTML/CSS,,,Java,Kotlin,None,Mobile App Developer (Android)
+Java,Python,,Swift,,,React,Mobile App Developer (iOS)
+C/C++,Java,,JavaScript,,Python,None,Game Developer
+Java,JavaScript,,PHP,,Python,React,Mobile App Developer (Android)
+C/C++,HTML/CSS,PHP,,Kotlin,,None,Mobile App Developer (Android)
+Java,SQL,,C#,,,None,Mobile App Developer (Android)
+Python,JavaScript,PHP,Java,SQL,,None,Database Administrator
+JavaScript,C/C++,,SQL,,,None,Database Administrator
+C#,HTML/CSS,,,,,None,Game Developer
+JavaScript,C/C++,SQL,PHP,,,None,Database Administrator
+C/C++,PHP,JavaScript,,,SQL,None,Database Administrator
+Python,SQL,,,,,None,Database Administrator
+Java,Swift,,,,,None,Mobile App Developer (iOS)
+Python,JavaScript,,,,C/C++,None,Cybersecurity Analyst
+Java,HTML/CSS,Python,,,,None,Mobile App Developer (Android)
+C#,C/C++,,Kotlin,JavaScript,,React,Mobile App Developer (Android)
+C#,Kotlin,,,,,None,Mobile App Developer (Android)
+JavaScript,C#,Java,,Python,Kotlin,React,Mobile App Developer (Android)
+C/C++,HTML/CSS,,,PHP,SQL,None,Database Administrator
+JavaScript,Python,,Kotlin,,,None,Mobile App Developer (Android)
+JavaScript,Python,,,,,React,Front-End Developer
+C/C++,JavaScript,C#,,Java,,None,Game Developer
+JavaScript,HTML/CSS,Kotlin,Java,,Python,None,Mobile App Developer (Android)
+C#,C/C++,,,HTML/CSS,Swift,None,Mobile App Developer (iOS)
+C#,Java,,,,,None,Game Developer
+JavaScript,Kotlin,,,,,React,Mobile App Developer (Android)
+Python,C/C++,,HTML/CSS,,PHP,None,Cybersecurity Analyst
+C#,JavaScript,,,,HTML/CSS,None,Game Developer
+Python,Swift,PHP,C/C++,SQL,,React,Mobile App Developer (iOS)
+C/C++,JavaScript,Swift,,C#,,React,Mobile App Developer (iOS)
+Python,Java,HTML/CSS,PHP,,,None,Cybersecurity Analyst
+Java,HTML/CSS,,,,Python,None,Mobile App Developer (Android)
+Java,,,,,,None,Mobile App Developer (Android)
+Java,Kotlin,,,,,None,Mobile App Developer (Android)
+Python,C/C++,,,JavaScript,HTML/CSS,None,Cybersecurity Analyst
+Python,JavaScript,,,,C/C++,None,Cybersecurity Analyst
+JavaScript,C#,C/C++,SQL,,Java,None,Database Administrator
+C#,Kotlin,SQL,,C/C++,,React,Mobile App Developer (Android)
+JavaScript,Swift,,PHP,,,None,Mobile App Developer (iOS)
+JavaScript,C#,Java,,SQL,Kotlin,None,Mobile App Developer (Android)
+C#,Kotlin,HTML/CSS,Java,,SQL,None,Mobile App Developer (Android)
+C/C++,Swift,,Kotlin,HTML/CSS,,None,Mobile App Developer (iOS)
+JavaScript,PHP,Java,,,,None,Front-End Developer
+C/C++,,C#,,,,None,Game Developer
+C#,Swift,,,,,React,Mobile App Developer (iOS)
+JavaScript,SQL,Java,,C#,Python,None,Database Administrator
+Python,Swift,C/C++,,SQL,,None,Mobile App Developer (iOS)
+C#,JavaScript,Swift,,,,React,Mobile App Developer (iOS)
+Java,JavaScript,C#,,PHP,,None,Mobile App Developer (Android)
+C#,PHP,,,C/C++,,None,Game Developer
+C#,Java,,,Swift,,None,Mobile App Developer (iOS)
+Python,Kotlin,C#,,,,None,Mobile App Developer (Android)
+Python,JavaScript,,,,SQL,None,Database Administrator
+Python,,Swift,,,,None,Mobile App Developer (iOS)
+JavaScript,PHP,,Java,Swift,,React,Mobile App Developer (iOS)
+C#,HTML/CSS,,,,C/C++,None,Game Developer
+C/C++,SQL,Kotlin,,Python,C#,None,Mobile App Developer (Android)
+C#,Java,C/C++,,JavaScript,PHP,None,Game Developer
+C/C++,HTML/CSS,,,SQL,PHP,None,Database Administrator
+JavaScript,C#,Java,SQL,,Python,None,Database Administrator
+C#,,JavaScript,,,Python,None,Game Developer
+JavaScript,,,,,,None,Front-End Developer
+C/C++,C#,JavaScript,,Kotlin,,None,Mobile App Developer (Android)
+C#,Python,PHP,,SQL,,None,Database Administrator
+Java,SQL,,,,PHP,None,Mobile App Developer (Android)
+C/C++,Java,,C#,,,None,Game Developer
+JavaScript,Python,PHP,HTML/CSS,Kotlin,Swift,React,Mobile App Developer (iOS)
+C/C++,PHP,,C#,SQL,Java,None,Database Administrator
+Python,C#,,HTML/CSS,,,None,Cybersecurity Analyst
+Java,SQL,,,,Kotlin,React,Mobile App Developer (Android)
+JavaScript,HTML/CSS,,Python,,,React,Front-End Developer
+JavaScript,,,,C/C++,,None,Front-End Developer
+Java,Swift,,JavaScript,,,React,Mobile App Developer (iOS)
+JavaScript,C#,,C/C++,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,C#,,Python,,,React,Front-End Developer
+Java,Kotlin,,,JavaScript,Swift,None,Mobile App Developer (iOS)
+C/C++,Java,Kotlin,,JavaScript,C#,None,Mobile App Developer (Android)
+C/C++,Swift,,,,C#,None,Mobile App Developer (iOS)
+Python,Swift,,,,,None,Mobile App Developer (iOS)
+C/C++,C#,Swift,,PHP,,None,Mobile App Developer (iOS)
+C#,Java,PHP,,,,None,Game Developer
+Python,,HTML/CSS,,Swift,JavaScript,React,Mobile App Developer (iOS)
+C/C++,HTML/CSS,JavaScript,Kotlin,,,None,Mobile App Developer (Android)
+C/C++,C#,HTML/CSS,Kotlin,,,None,Mobile App Developer (Android)
+Python,PHP,,,,,None,Cybersecurity Analyst
+C#,C/C++,,,SQL,Java,None,Database Administrator
+C/C++,Swift,JavaScript,PHP,C#,,React,Mobile App Developer (iOS)
+JavaScript,C#,Java,HTML/CSS,PHP,,React,Front-End Developer
+JavaScript,PHP,,Kotlin,Java,,React,Mobile App Developer (Android)
+Java,PHP,C#,Python,Kotlin,,None,Mobile App Developer (Android)
+C/C++,C#,Python,HTML/CSS,Java,,None,Game Developer
+Java,Kotlin,,,,,None,Mobile App Developer (Android)
+C#,C/C++,JavaScript,,,Swift,React,Mobile App Developer (iOS)
+C/C++,C#,JavaScript,Java,,Swift,React,Mobile App Developer (iOS)
+JavaScript,Swift,,,,,None,Mobile App Developer (iOS)
+JavaScript,C/C++,,,,C#,React,Front-End Developer
+C#,JavaScript,,,,,None,Game Developer
+JavaScript,PHP,,,,,None,Front-End Developer
+Python,,PHP,,Swift,,None,Mobile App Developer (iOS)
+Java,C#,JavaScript,,,Python,React,Mobile App Developer (Android)
+JavaScript,Kotlin,,,,HTML/CSS,React,Mobile App Developer (Android)
+JavaScript,Kotlin,,,,,React,Mobile App Developer (Android)
+C#,JavaScript,,HTML/CSS,Java,,None,Game Developer
+JavaScript,Kotlin,,,Swift,,None,Mobile App Developer (iOS)
+Python,C/C++,C#,PHP,,SQL,None,Database Administrator
+Java,C/C++,Swift,C#,,Python,None,Mobile App Developer (iOS)
+C/C++,JavaScript,,,Kotlin,SQL,React,Mobile App Developer (Android)
+Java,Kotlin,PHP,,Python,,None,Mobile App Developer (Android)
+JavaScript,Java,,Swift,,Kotlin,None,Mobile App Developer (iOS)
+C#,SQL,,C/C++,Java,,None,Database Administrator
+JavaScript,C#,C/C++,SQL,Kotlin,,React,Mobile App Developer (Android)
+C#,SQL,,,Python,,None,Database Administrator
+C/C++,PHP,C#,,HTML/CSS,,None,Game Developer
+C/C++,PHP,Java,C#,,,None,Game Developer
+Python,JavaScript,Java,PHP,Kotlin,,None,Mobile App Developer (Android)
+C/C++,Kotlin,,,,,None,Mobile App Developer (Android)
+C#,Swift,Kotlin,PHP,,,React,Mobile App Developer (iOS)
+C#,HTML/CSS,,,Java,,None,Game Developer
+C#,SQL,,Kotlin,,,None,Mobile App Developer (Android)
+C#,PHP,,HTML/CSS,Python,,None,Game Developer
+C#,JavaScript,,SQL,Swift,HTML/CSS,React,Mobile App Developer (iOS)
+Python,Swift,Kotlin,,C#,,React,Mobile App Developer (iOS)
+Java,,PHP,HTML/CSS,C/C++,,React,Mobile App Developer (Android)
+C/C++,Java,,Swift,C#,,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,,,,PHP,None,Game Developer
+C#,PHP,,HTML/CSS,Kotlin,,None,Mobile App Developer (Android)
+Java,Python,,,,C#,None,Mobile App Developer (Android)
+C/C++,JavaScript,C#,,,,None,Game Developer
+Python,C/C++,Java,,,,None,Cybersecurity Analyst
+JavaScript,HTML/CSS,,,,,None,Front-End Developer
+Java,HTML/CSS,,,SQL,,None,Mobile App Developer (Android)
+Java,C/C++,,Kotlin,,,None,Mobile App Developer (Android)
+C/C++,PHP,,,,,None,Game Developer
+JavaScript,SQL,C/C++,,,PHP,None,Database Administrator
+Java,JavaScript,C#,C/C++,Kotlin,PHP,None,Mobile App Developer (Android)
+Python,C/C++,HTML/CSS,C#,,Kotlin,None,Mobile App Developer (Android)
+C#,SQL,,,,Java,None,Database Administrator
+C#,Java,,,,,None,Game Developer
+C/C++,Swift,,,Kotlin,,None,Mobile App Developer (iOS)
+JavaScript,SQL,,PHP,,,None,Database Administrator
+JavaScript,PHP,C/C++,C#,Swift,,None,Mobile App Developer (iOS)
+Python,HTML/CSS,,Java,,,None,Cybersecurity Analyst
+C#,Swift,,JavaScript,SQL,C/C++,React,Mobile App Developer (iOS)
+JavaScript,Kotlin,C/C++,,,Swift,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,Java,,,C#,None,Game Developer
+Java,HTML/CSS,,,,C#,None,Mobile App Developer (Android)
+C#,Java,Swift,,,C/C++,None,Mobile App Developer (iOS)
+JavaScript,PHP,,,,,React,Front-End Developer
+C/C++,HTML/CSS,JavaScript,,Swift,,React,Mobile App Developer (iOS)
+Python,C/C++,HTML/CSS,Java,,,None,Cybersecurity Analyst
+JavaScript,C/C++,,C#,Java,,None,Front-End Developer
+JavaScript,C/C++,,,,Kotlin,React,Mobile App Developer (Android)
+C#,JavaScript,,,,,None,Game Developer
+C/C++,Python,,HTML/CSS,,,None,Game Developer
+JavaScript,,,,,,React,Front-End Developer
+Java,Swift,,,,HTML/CSS,None,Mobile App Developer (iOS)
+Java,Python,,,,,None,Mobile App Developer (Android)
+C#,Swift,,,HTML/CSS,,None,Mobile App Developer (iOS)
+Java,,C#,,,,None,Mobile App Developer (Android)
+Java,Python,,SQL,,,None,Mobile App Developer (Android)
+JavaScript,Python,Swift,HTML/CSS,PHP,,None,Mobile App Developer (iOS)
+JavaScript,C/C++,,,Kotlin,C#,React,Mobile App Developer (Android)
+Java,Python,,,Swift,PHP,None,Mobile App Developer (iOS)
+C#,,HTML/CSS,C/C++,,Java,None,Game Developer
+Python,C#,Kotlin,,Swift,,None,Mobile App Developer (iOS)
+C#,Swift,,,Java,,None,Mobile App Developer (iOS)
+Python,C#,JavaScript,PHP,HTML/CSS,,None,Cybersecurity Analyst
+Java,PHP,,SQL,,JavaScript,None,Mobile App Developer (Android)
+C/C++,PHP,Swift,,,Kotlin,None,Mobile App Developer (iOS)
+Python,PHP,,Swift,,,React,Mobile App Developer (iOS)
+C#,C/C++,Java,PHP,JavaScript,,None,Game Developer
+C/C++,Kotlin,,,,,None,Mobile App Developer (Android)
+C#,Kotlin,HTML/CSS,SQL,,,None,Mobile App Developer (Android)
+C#,,,Kotlin,,HTML/CSS,None,Mobile App Developer (Android)
+C/C++,Swift,,,HTML/CSS,,None,Mobile App Developer (iOS)
+Python,Java,C#,HTML/CSS,,,None,Cybersecurity Analyst
+JavaScript,C/C++,,Java,,Python,React,Front-End Developer
+C/C++,SQL,HTML/CSS,Swift,JavaScript,,None,Mobile App Developer (iOS)
+C/C++,Python,,JavaScript,,,None,Game Developer
+Python,Swift,,,,JavaScript,None,Mobile App Developer (iOS)
+Python,Java,Swift,,,,None,Mobile App Developer (iOS)
+JavaScript,Python,,,,HTML/CSS,React,Front-End Developer
+C#,JavaScript,,,Python,,None,Game Developer
+C/C++,C#,,SQL,,HTML/CSS,None,Database Administrator
+JavaScript,Java,,,,,None,Front-End Developer
+Python,C/C++,SQL,HTML/CSS,,,None,Database Administrator
+C#,Python,,,C/C++,Java,None,Game Developer
+C/C++,JavaScript,,Python,C#,,None,Game Developer
+C#,HTML/CSS,,,Swift,,React,Mobile App Developer (iOS)
+C/C++,Kotlin,Python,,,,React,Mobile App Developer (Android)
+C#,,Swift,,,JavaScript,None,Mobile App Developer (iOS)
+C/C++,JavaScript,,,,,None,Game Developer
+C/C++,PHP,,,Java,C#,None,Game Developer
+C/C++,Kotlin,Python,,,,React,Mobile App Developer (Android)
+C/C++,SQL,Java,,JavaScript,,None,Database Administrator
+Python,HTML/CSS,,C#,,Java,None,Cybersecurity Analyst
+Java,HTML/CSS,,,,Python,None,Mobile App Developer (Android)
+Java,C/C++,C#,,,Kotlin,React,Mobile App Developer (Android)
+JavaScript,Java,HTML/CSS,,Swift,,None,Mobile App Developer (iOS)
+Java,Python,,C/C++,Swift,HTML/CSS,None,Mobile App Developer (iOS)
+C/C++,PHP,Python,C#,,SQL,None,Database Administrator
+Python,C#,C/C++,Java,HTML/CSS,,None,Cybersecurity Analyst
+C/C++,Python,,Kotlin,PHP,,None,Mobile App Developer (Android)
+Python,SQL,,,,Swift,React,Mobile App Developer (iOS)
+Python,Java,Swift,Kotlin,,,None,Mobile App Developer (iOS)
+JavaScript,Java,,,,,React,Front-End Developer
+Java,PHP,,,,Python,None,Mobile App Developer (Android)
+Python,C#,Java,HTML/CSS,,,None,Cybersecurity Analyst
+C#,C/C++,HTML/CSS,,Kotlin,JavaScript,None,Mobile App Developer (Android)
+C#,Java,,,,,None,Game Developer
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+JavaScript,C/C++,,Python,Java,,React,Front-End Developer
+C#,C/C++,,SQL,,HTML/CSS,None,Database Administrator
+C#,C/C++,Swift,,SQL,,None,Mobile App Developer (iOS)
+C#,Python,,JavaScript,,Kotlin,None,Mobile App Developer (Android)
+C/C++,C#,SQL,,,,None,Database Administrator
+Java,PHP,Python,SQL,,,None,Mobile App Developer (Android)
+JavaScript,,,PHP,Swift,,None,Mobile App Developer (iOS)
+Java,Python,C/C++,C#,,HTML/CSS,None,Mobile App Developer (Android)
+C/C++,SQL,C#,,Java,Swift,None,Mobile App Developer (iOS)
+C#,,HTML/CSS,,,,None,Game Developer
+JavaScript,Java,,,C/C++,,React,Front-End Developer
+JavaScript,Python,Swift,,Java,,None,Mobile App Developer (iOS)
+C#,,,,Swift,PHP,React,Mobile App Developer (iOS)
+Java,C/C++,,,,,None,Mobile App Developer (Android)
+C/C++,C#,SQL,HTML/CSS,,,None,Database Administrator
+C/C++,SQL,,,C#,,None,Database Administrator
+C/C++,HTML/CSS,,Python,C#,,None,Game Developer
+C/C++,JavaScript,,,PHP,Swift,None,Mobile App Developer (iOS)
+Python,Kotlin,,,,HTML/CSS,None,Mobile App Developer (Android)
+C#,C/C++,PHP,HTML/CSS,Swift,Kotlin,None,Mobile App Developer (iOS)
+Python,PHP,SQL,,,Swift,None,Mobile App Developer (iOS)
+C#,,,,HTML/CSS,,None,Game Developer
+Java,HTML/CSS,,Kotlin,,PHP,None,Mobile App Developer (Android)
+C/C++,PHP,JavaScript,,Kotlin,SQL,React,Mobile App Developer (Android)
+C/C++,Python,,,,,None,Game Developer
+Python,HTML/CSS,,,,,None,Cybersecurity Analyst
+C#,SQL,,Kotlin,Java,,None,Mobile App Developer (Android)
+Python,Java,HTML/CSS,C#,,C/C++,None,Cybersecurity Analyst
+C/C++,,Swift,Python,HTML/CSS,SQL,React,Mobile App Developer (iOS)
+Python,SQL,,Java,HTML/CSS,,None,Database Administrator
+Java,JavaScript,C#,,,,None,Mobile App Developer (Android)
+C/C++,Java,Swift,Kotlin,,C#,None,Mobile App Developer (iOS)
+C/C++,Python,SQL,,Swift,,React,Mobile App Developer (iOS)
+JavaScript,C/C++,,C#,,,None,Front-End Developer
+C/C++,Java,,,,,None,Game Developer
+C#,HTML/CSS,,Swift,,,React,Mobile App Developer (iOS)
+C/C++,SQL,PHP,Python,,JavaScript,None,Database Administrator
+JavaScript,SQL,,C#,,PHP,None,Database Administrator
+C#,JavaScript,,PHP,,,None,Game Developer
+C/C++,SQL,,,,,None,Database Administrator
+C#,,,,,,None,Game Developer
+C#,,Kotlin,,,C/C++,None,Mobile App Developer (Android)
+C/C++,,SQL,Java,Kotlin,HTML/CSS,React,Mobile App Developer (Android)
+Python,C#,HTML/CSS,,,Java,None,Cybersecurity Analyst
+C/C++,PHP,HTML/CSS,,,,None,Game Developer
+Python,C#,,,,,None,Cybersecurity Analyst
+Python,Java,C#,,Kotlin,,None,Mobile App Developer (Android)
+C#,Java,,,Kotlin,,None,Mobile App Developer (Android)
+Java,JavaScript,HTML/CSS,,,Kotlin,React,Mobile App Developer (Android)
+C#,PHP,JavaScript,,SQL,Kotlin,React,Mobile App Developer (Android)
+Java,JavaScript,Swift,C#,,,None,Mobile App Developer (iOS)
+C/C++,Java,,,PHP,,None,Game Developer
+C/C++,Swift,PHP,JavaScript,,HTML/CSS,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,C#,,,,None,Game Developer
+JavaScript,,,HTML/CSS,C/C++,,React,Front-End Developer
+Java,,,HTML/CSS,,PHP,None,Mobile App Developer (Android)
+C#,Python,,,,Swift,None,Mobile App Developer (iOS)
+JavaScript,C#,,,,,None,Front-End Developer
+Python,HTML/CSS,Kotlin,,,PHP,React,Mobile App Developer (Android)
+C#,Python,SQL,PHP,,,None,Database Administrator
+Java,Python,Kotlin,,,C#,React,Mobile App Developer (Android)
+C#,SQL,,,PHP,,None,Database Administrator
+Python,PHP,SQL,,,,None,Database Administrator
+JavaScript,SQL,,,C/C++,,None,Database Administrator
+JavaScript,Kotlin,HTML/CSS,SQL,,C#,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,,,,,None,Game Developer
+C/C++,Python,,,,PHP,None,Game Developer
+Java,SQL,,,,,None,Mobile App Developer (Android)
+C#,PHP,,HTML/CSS,,,None,Game Developer
+C/C++,Swift,HTML/CSS,,,Java,None,Mobile App Developer (iOS)
+JavaScript,,,,C#,HTML/CSS,None,Front-End Developer
+C#,,C/C++,Kotlin,,,None,Mobile App Developer (Android)
+C/C++,Python,Swift,,PHP,,React,Mobile App Developer (iOS)
+Java,SQL,,HTML/CSS,C#,Python,None,Mobile App Developer (Android)
+C#,JavaScript,,,PHP,C/C++,None,Game Developer
+Java,C/C++,,,,PHP,None,Mobile App Developer (Android)
+JavaScript,HTML/CSS,,,,,None,Front-End Developer
+C#,SQL,,Java,,Python,None,Database Administrator
+C/C++,SQL,,HTML/CSS,,,None,Database Administrator
+JavaScript,Java,,,PHP,,React,Front-End Developer
+Python,,,,,JavaScript,None,Cybersecurity Analyst
+C/C++,,,,Java,,None,Game Developer
+Python,Kotlin,JavaScript,Java,C#,,None,Mobile App Developer (Android)
+C#,PHP,,,Swift,,React,Mobile App Developer (iOS)
+Python,Swift,,,,,None,Mobile App Developer (iOS)
+Java,JavaScript,Kotlin,,,C#,None,Mobile App Developer (Android)
+Java,C#,,SQL,,,None,Mobile App Developer (Android)
+C#,SQL,PHP,C/C++,Java,,None,Database Administrator
+C/C++,C#,,,Swift,Kotlin,None,Mobile App Developer (iOS)
+Python,C#,JavaScript,Swift,Kotlin,SQL,None,Mobile App Developer (iOS)
+Java,Python,,,Kotlin,,React,Mobile App Developer (Android)
+C/C++,,,Java,PHP,,None,Game Developer
+JavaScript,Swift,SQL,,,Kotlin,React,Mobile App Developer (iOS)
+JavaScript,C/C++,,Java,,,React,Front-End Developer
+JavaScript,Python,SQL,,Kotlin,,React,Mobile App Developer (Android)
+Java,PHP,,,Python,,React,Mobile App Developer (Android)
+C/C++,,Kotlin,C#,,,React,Mobile App Developer (Android)
+C/C++,C#,,,Swift,SQL,React,Mobile App Developer (iOS)
+Python,C#,,Java,,HTML/CSS,None,Cybersecurity Analyst
+C#,,,,,,None,Game Developer
+JavaScript,Swift,,C/C++,Python,,None,Mobile App Developer (iOS)
+C#,C/C++,,PHP,,HTML/CSS,None,Game Developer
+C/C++,SQL,,,,,None,Database Administrator
+Java,JavaScript,,SQL,C#,,React,Mobile App Developer (Android)
+C#,Kotlin,,,,,React,Mobile App Developer (Android)
+Java,C#,HTML/CSS,,JavaScript,SQL,None,Mobile App Developer (Android)
+Java,C#,Kotlin,Swift,Python,C/C++,React,Mobile App Developer (iOS)
+C#,PHP,,,Kotlin,,React,Mobile App Developer (Android)
+JavaScript,Kotlin,,C/C++,,,None,Mobile App Developer (Android)
+C#,Kotlin,,C/C++,Swift,,None,Mobile App Developer (iOS)
+Python,JavaScript,C/C++,,,,None,Cybersecurity Analyst
+Java,Swift,,JavaScript,,,React,Mobile App Developer (iOS)
+C/C++,,Python,,,,None,Game Developer
+C/C++,C#,HTML/CSS,JavaScript,,,None,Game Developer
+JavaScript,PHP,,,,,None,Front-End Developer
+C#,PHP,,,Java,,None,Game Developer
+JavaScript,Java,Python,Kotlin,Swift,,React,Mobile App Developer (iOS)
+Java,C/C++,JavaScript,,Kotlin,,React,Mobile App Developer (Android)
+C/C++,,,Python,HTML/CSS,,None,Game Developer
+C/C++,SQL,Java,,,C#,None,Database Administrator
+C/C++,Swift,Java,,,Python,None,Mobile App Developer (iOS)
+Java,Swift,HTML/CSS,,,,None,Mobile App Developer (iOS)
+JavaScript,PHP,,Swift,,,React,Mobile App Developer (iOS)
+Python,,Kotlin,,,,None,Mobile App Developer (Android)
+Python,Kotlin,,,,HTML/CSS,None,Mobile App Developer (Android)
+C#,SQL,,,,Swift,None,Mobile App Developer (iOS)
+Java,HTML/CSS,C#,,,,None,Mobile App Developer (Android)
+Python,Swift,SQL,C#,,Java,None,Mobile App Developer (iOS)
+Python,JavaScript,,C/C++,,,None,Cybersecurity Analyst
+Java,C#,,,Python,,None,Mobile App Developer (Android)
+Python,Java,,,,,None,Cybersecurity Analyst
+Python,C#,Kotlin,,Java,,None,Mobile App Developer (Android)
+C/C++,JavaScript,,,,,None,Game Developer
+JavaScript,Swift,,,,,React,Mobile App Developer (iOS)
+Python,SQL,Java,,,PHP,None,Database Administrator
+Java,,,HTML/CSS,JavaScript,,React,Mobile App Developer (Android)
+C#,Java,Python,HTML/CSS,,PHP,None,Game Developer
+C/C++,Java,Python,,Kotlin,SQL,None,Mobile App Developer (Android)
+Java,,,,,SQL,None,Mobile App Developer (Android)
+Python,C/C++,,,HTML/CSS,,None,Cybersecurity Analyst
+C/C++,Java,,Swift,HTML/CSS,,None,Mobile App Developer (iOS)
+JavaScript,Java,SQL,Kotlin,,,None,Mobile App Developer (Android)
+Java,Swift,JavaScript,C#,Python,C/C++,None,Mobile App Developer (iOS)
+Python,JavaScript,Java,,C#,PHP,None,Cybersecurity Analyst
+JavaScript,,,,PHP,,React,Front-End Developer
+C/C++,HTML/CSS,JavaScript,,Kotlin,,React,Mobile App Developer (Android)
+Java,C/C++,,,,,None,Mobile App Developer (Android)
+C#,PHP,,,Kotlin,,React,Mobile App Developer (Android)
+C#,Python,PHP,Java,Swift,,None,Mobile App Developer (iOS)
+Java,C/C++,C#,,,Python,None,Mobile App Developer (Android)
+C#,,Python,Java,,,None,Game Developer
+Java,Kotlin,JavaScript,SQL,,,React,Mobile App Developer (Android)
+C#,SQL,,Python,,PHP,None,Database Administrator
+Java,Kotlin,,,,C/C++,None,Mobile App Developer (Android)
+C/C++,Python,,HTML/CSS,,,None,Game Developer
+C/C++,SQL,JavaScript,Swift,,,React,Mobile App Developer (iOS)
+Java,SQL,C/C++,,,,None,Mobile App Developer (Android)
+Python,Swift,C#,,,,None,Mobile App Developer (iOS)
+Python,JavaScript,,,,Swift,React,Mobile App Developer (iOS)
+Java,JavaScript,SQL,Python,,Swift,React,Mobile App Developer (iOS)
+C/C++,Swift,HTML/CSS,C#,Kotlin,,None,Mobile App Developer (iOS)
+Python,Java,C#,JavaScript,,HTML/CSS,None,Cybersecurity Analyst
+C/C++,SQL,Python,,,,None,Database Administrator
+Java,HTML/CSS,SQL,,C#,,React,Mobile App Developer (Android)
+Python,C#,SQL,C/C++,Swift,Java,React,Mobile App Developer (iOS)
+Java,C/C++,Python,,,C#,None,Mobile App Developer (Android)
+C#,HTML/CSS,Swift,C/C++,,SQL,React,Mobile App Developer (iOS)
+C#,C/C++,,Swift,,,None,Mobile App Developer (iOS)
+JavaScript,Java,,C#,Kotlin,,React,Mobile App Developer (Android)
+JavaScript,Kotlin,,,C#,,None,Mobile App Developer (Android)
+JavaScript,Kotlin,Python,C#,,,None,Mobile App Developer (Android)
+JavaScript,C/C++,SQL,,,Kotlin,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,Kotlin,Swift,,,React,Mobile App Developer (iOS)
+JavaScript,,PHP,SQL,,,None,Database Administrator
+JavaScript,Swift,Java,,,,None,Mobile App Developer (iOS)
+C/C++,Kotlin,,SQL,PHP,,None,Mobile App Developer (Android)
+JavaScript,PHP,,,,,React,Front-End Developer
+Python,,Java,,,,None,Cybersecurity Analyst
+Java,Kotlin,SQL,C/C++,,JavaScript,React,Mobile App Developer (Android)
+Python,PHP,C/C++,,Kotlin,,None,Mobile App Developer (Android)
+Java,JavaScript,,,,PHP,React,Mobile App Developer (Android)
+C/C++,C#,,,HTML/CSS,Kotlin,React,Mobile App Developer (Android)
+C#,HTML/CSS,,,,Java,None,Game Developer
+JavaScript,SQL,Swift,,,Java,None,Mobile App Developer (iOS)
+C#,JavaScript,,C/C++,,HTML/CSS,None,Game Developer
+C/C++,Python,,PHP,Swift,,None,Mobile App Developer (iOS)
+Java,JavaScript,,Kotlin,,,React,Mobile App Developer (Android)
+JavaScript,Kotlin,Swift,,,C#,React,Mobile App Developer (iOS)
+Python,PHP,,JavaScript,,,None,Cybersecurity Analyst
+Python,PHP,,C/C++,,,None,Cybersecurity Analyst
+C#,,,JavaScript,,,None,Game Developer
+Python,SQL,Kotlin,,,JavaScript,None,Mobile App Developer (Android)
+C/C++,,C#,,SQL,,None,Database Administrator
+C#,Swift,,,C/C++,,None,Mobile App Developer (iOS)
+C#,PHP,,,,Java,None,Game Developer
+JavaScript,Kotlin,PHP,Swift,,SQL,React,Mobile App Developer (iOS)
+Python,C#,,SQL,Java,C/C++,None,Database Administrator
+C/C++,JavaScript,PHP,,,SQL,None,Database Administrator
+JavaScript,SQL,,,Python,PHP,None,Database Administrator
+JavaScript,C/C++,Python,Swift,,PHP,None,Mobile App Developer (iOS)
+Python,SQL,,C/C++,,JavaScript,None,Database Administrator
+Java,HTML/CSS,,,,,React,Mobile App Developer (Android)
+Java,C/C++,,,,,None,Mobile App Developer (Android)
+C/C++,Python,Swift,,,,React,Mobile App Developer (iOS)
+Python,Java,Kotlin,,,Swift,None,Mobile App Developer (iOS)
+C#,Kotlin,,,,,React,Mobile App Developer (Android)
+C/C++,HTML/CSS,,,,,None,Game Developer
+C/C++,Kotlin,,HTML/CSS,Java,,None,Mobile App Developer (Android)
+JavaScript,PHP,,,,,React,Front-End Developer
+C#,HTML/CSS,,,,SQL,None,Database Administrator
+JavaScript,Python,Swift,Kotlin,Java,,None,Mobile App Developer (iOS)
+C#,JavaScript,Java,,C/C++,HTML/CSS,None,Game Developer
+JavaScript,Kotlin,,,,PHP,None,Mobile App Developer (Android)
+Java,Swift,C#,Python,,,None,Mobile App Developer (iOS)
+C#,Kotlin,Python,PHP,,SQL,React,Mobile App Developer (Android)
+JavaScript,PHP,Python,C/C++,SQL,,None,Database Administrator
+Java,Swift,,,Python,SQL,None,Mobile App Developer (iOS)
+Java,JavaScript,,PHP,,,React,Mobile App Developer (Android)
+Java,Swift,SQL,,,,None,Mobile App Developer (iOS)
+Python,C#,C/C++,,,SQL,None,Database Administrator
+Python,Kotlin,,JavaScript,,,None,Mobile App Developer (Android)
+C#,Swift,HTML/CSS,SQL,Python,C/C++,None,Mobile App Developer (iOS)
+Python,PHP,HTML/CSS,,,,None,Cybersecurity Analyst
+Java,SQL,HTML/CSS,,Swift,Python,React,Mobile App Developer (iOS)
+Java,PHP,,Kotlin,,JavaScript,None,Mobile App Developer (Android)
+JavaScript,,,,,C#,React,Front-End Developer
+Java,Swift,,,,,None,Mobile App Developer (iOS)
+C#,PHP,,,,JavaScript,None,Game Developer
+C/C++,C#,,,SQL,HTML/CSS,None,Database Administrator
+JavaScript,SQL,,,,Swift,React,Mobile App Developer (iOS)
+C/C++,JavaScript,,,,Java,None,Game Developer
+JavaScript,Python,,,,,None,Front-End Developer
+C/C++,,PHP,HTML/CSS,Swift,SQL,None,Mobile App Developer (iOS)
+Python,SQL,,,PHP,,None,Database Administrator
+JavaScript,C/C++,,PHP,,,React,Front-End Developer
+JavaScript,C/C++,,,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,C#,,,Java,,React,Front-End Developer
+Python,SQL,,C/C++,,Java,None,Database Administrator
+C#,PHP,,,JavaScript,HTML/CSS,None,Game Developer
+Java,JavaScript,Kotlin,,PHP,,None,Mobile App Developer (Android)
+JavaScript,Swift,C/C++,Python,HTML/CSS,SQL,React,Mobile App Developer (iOS)
+Java,Swift,,SQL,,,None,Mobile App Developer (iOS)
+Python,Swift,PHP,Java,SQL,Kotlin,None,Mobile App Developer (iOS)
+C#,Python,Swift,HTML/CSS,Kotlin,SQL,React,Mobile App Developer (iOS)
+Python,,,,C#,,None,Cybersecurity Analyst
+Java,Kotlin,,,,HTML/CSS,None,Mobile App Developer (Android)
+JavaScript,C/C++,,,Swift,,React,Mobile App Developer (iOS)
+C/C++,Swift,,JavaScript,,,React,Mobile App Developer (iOS)
+Python,Kotlin,HTML/CSS,,PHP,,None,Mobile App Developer (Android)
+Python,C#,,,JavaScript,C/C++,None,Cybersecurity Analyst
+Python,SQL,PHP,Kotlin,Java,C/C++,React,Mobile App Developer (Android)
+C/C++,C#,,Java,,HTML/CSS,None,Game Developer
+Java,Swift,JavaScript,C#,,,React,Mobile App Developer (iOS)
+Python,SQL,,,,Kotlin,None,Mobile App Developer (Android)
+C/C++,Java,,,C#,JavaScript,None,Game Developer
+C#,Python,,Kotlin,,PHP,React,Mobile App Developer (Android)
+C#,C/C++,,,,Swift,None,Mobile App Developer (iOS)
+Java,Python,SQL,Swift,C#,,None,Mobile App Developer (iOS)
+C/C++,SQL,Swift,,,,React,Mobile App Developer (iOS)
+JavaScript,Java,Kotlin,,,,None,Mobile App Developer (Android)
+JavaScript,Java,,,,,None,Front-End Developer
+C/C++,Swift,SQL,,JavaScript,Python,None,Mobile App Developer (iOS)
+JavaScript,SQL,,C/C++,HTML/CSS,Python,None,Database Administrator
+Python,Java,C#,Swift,,Kotlin,None,Mobile App Developer (iOS)
+C#,SQL,,,PHP,,None,Database Administrator
+Python,Kotlin,,,Swift,,React,Mobile App Developer (iOS)
+JavaScript,SQL,,,,,None,Database Administrator
+Java,Kotlin,Swift,Python,HTML/CSS,JavaScript,None,Mobile App Developer (iOS)
+JavaScript,C#,,,,,None,Front-End Developer
+Java,,,,,Kotlin,React,Mobile App Developer (Android)
+JavaScript,SQL,PHP,,,,None,Database Administrator
+C/C++,SQL,C#,,Python,,None,Database Administrator
+C/C++,Python,,,,,None,Game Developer
+Python,C/C++,,,,,None,Cybersecurity Analyst
+Java,SQL,,,,,React,Mobile App Developer (Android)
+Python,,,SQL,Swift,Kotlin,None,Mobile App Developer (iOS)
+C/C++,C#,,Swift,,Python,None,Mobile App Developer (iOS)
+Java,SQL,JavaScript,,,,React,Mobile App Developer (Android)
+Java,JavaScript,PHP,,C/C++,,React,Mobile App Developer (Android)
+C#,Java,,Python,PHP,JavaScript,None,Game Developer
+C/C++,Python,,,Kotlin,Java,None,Mobile App Developer (Android)
+C/C++,Kotlin,,,,PHP,None,Mobile App Developer (Android)
+C/C++,Java,PHP,SQL,,,None,Database Administrator
+Python,C#,JavaScript,,C/C++,,None,Cybersecurity Analyst
+JavaScript,SQL,Swift,Java,,,None,Mobile App Developer (iOS)
+Java,JavaScript,,,,Swift,None,Mobile App Developer (iOS)
+C#,Python,,HTML/CSS,,,None,Game Developer
+C/C++,SQL,,,,,None,Database Administrator
+Java,C/C++,,C#,,,React,Mobile App Developer (Android)
+Python,SQL,,,,Java,None,Database Administrator
+Java,Kotlin,,HTML/CSS,,,None,Mobile App Developer (Android)
+C#,C/C++,Swift,,,,React,Mobile App Developer (iOS)
+C/C++,Swift,PHP,HTML/CSS,Java,Kotlin,React,Mobile App Developer (iOS)
+C#,,SQL,,,,None,Database Administrator
+C#,HTML/CSS,Java,,,JavaScript,None,Game Developer
+JavaScript,Python,,C/C++,,,None,Front-End Developer
+C#,HTML/CSS,,,,Swift,None,Mobile App Developer (iOS)
+C/C++,Python,,,,,None,Game Developer
+Python,Kotlin,,,C/C++,,None,Mobile App Developer (Android)
+Java,HTML/CSS,,,,C/C++,None,Mobile App Developer (Android)
+Python,Kotlin,,,,C/C++,None,Mobile App Developer (Android)
+JavaScript,PHP,SQL,Python,,C#,None,Database Administrator
+C#,C/C++,,,SQL,,None,Database Administrator
+C#,PHP,Java,SQL,JavaScript,,None,Database Administrator
+C#,Swift,,Python,,,None,Mobile App Developer (iOS)
+C#,Swift,,,,,None,Mobile App Developer (iOS)
+Java,HTML/CSS,,Python,,PHP,React,Mobile App Developer (Android)
+C#,Python,,,,Kotlin,None,Mobile App Developer (Android)
+C#,JavaScript,,HTML/CSS,PHP,,None,Game Developer
+C#,HTML/CSS,JavaScript,,,,None,Game Developer
+C#,SQL,,Kotlin,,,React,Mobile App Developer (Android)
+Java,HTML/CSS,,,JavaScript,,None,Mobile App Developer (Android)
+C/C++,Swift,,C#,,,React,Mobile App Developer (iOS)
+JavaScript,,Java,Python,C#,,React,Front-End Developer
+Python,C/C++,,,,JavaScript,None,Cybersecurity Analyst
+JavaScript,Python,C/C++,,,,React,Front-End Developer
+C/C++,JavaScript,Kotlin,,,Swift,React,Mobile App Developer (iOS)
+C#,JavaScript,,,,Python,None,Game Developer
+Python,JavaScript,C#,,,C/C++,None,Cybersecurity Analyst
+C/C++,HTML/CSS,,,C#,,None,Game Developer
+C/C++,JavaScript,Swift,,C#,,None,Mobile App Developer (iOS)
+JavaScript,Kotlin,SQL,,C#,,None,Mobile App Developer (Android)
+Java,HTML/CSS,,SQL,Python,,None,Mobile App Developer (Android)
+Python,SQL,Kotlin,PHP,,Java,None,Mobile App Developer (Android)
+C#,Kotlin,Swift,,SQL,,None,Mobile App Developer (iOS)
+Java,Kotlin,,,,C#,None,Mobile App Developer (Android)
+JavaScript,HTML/CSS,SQL,,,,None,Database Administrator
+C#,SQL,PHP,,,C/C++,None,Database Administrator
+C/C++,JavaScript,,Java,,C#,None,Game Developer
+C#,Python,,,C/C++,HTML/CSS,None,Game Developer
+C/C++,JavaScript,Swift,,,,React,Mobile App Developer (iOS)
+C#,C/C++,PHP,,HTML/CSS,Java,None,Game Developer
+JavaScript,Java,HTML/CSS,SQL,Python,PHP,None,Database Administrator
+C/C++,Java,,,,,None,Game Developer
+C#,Java,,,,HTML/CSS,None,Game Developer
+C#,Java,JavaScript,,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,C/C++,Java,C#,,SQL,None,Database Administrator
+JavaScript,Python,,,,,React,Front-End Developer
+JavaScript,Swift,Python,HTML/CSS,C#,,None,Mobile App Developer (iOS)
+C#,JavaScript,HTML/CSS,,PHP,,None,Game Developer
+C/C++,PHP,,,,,None,Game Developer
+JavaScript,PHP,C#,,,Java,React,Front-End Developer
+JavaScript,,SQL,C#,,C/C++,None,Database Administrator
+C/C++,Python,HTML/CSS,PHP,,,None,Game Developer
+JavaScript,C#,SQL,,Java,,None,Database Administrator
+C#,Kotlin,,,Java,,React,Mobile App Developer (Android)
+JavaScript,Swift,,HTML/CSS,,,React,Mobile App Developer (iOS)
+Java,JavaScript,,,SQL,HTML/CSS,None,Mobile App Developer (Android)
+JavaScript,C/C++,,,,,React,Front-End Developer
+JavaScript,HTML/CSS,,PHP,,,React,Front-End Developer
+C#,Swift,,JavaScript,Java,,None,Mobile App Developer (iOS)
+JavaScript,Java,SQL,,,HTML/CSS,None,Database Administrator
+C#,HTML/CSS,,,,Swift,React,Mobile App Developer (iOS)
+JavaScript,C/C++,,,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,PHP,,,HTML/CSS,,React,Front-End Developer
+C/C++,PHP,,Python,,,None,Game Developer
+Java,Kotlin,,,Python,SQL,None,Mobile App Developer (Android)
+JavaScript,PHP,C#,HTML/CSS,Python,,React,Front-End Developer
+JavaScript,Kotlin,Swift,,,,React,Mobile App Developer (iOS)
+Java,SQL,,,,,React,Mobile App Developer (Android)
+Java,C#,JavaScript,Kotlin,,,None,Mobile App Developer (Android)
+JavaScript,SQL,,,,,None,Database Administrator
+JavaScript,HTML/CSS,SQL,,Java,Kotlin,None,Mobile App Developer (Android)
+Python,SQL,,Kotlin,Swift,,None,Mobile App Developer (iOS)
+Python,Java,,,JavaScript,Swift,None,Mobile App Developer (iOS)
+JavaScript,C#,Java,,C/C++,,React,Front-End Developer
+Java,C#,,,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,PHP,C#,,C/C++,Kotlin,None,Mobile App Developer (Android)
+Java,Kotlin,Swift,,,,None,Mobile App Developer (iOS)
+Python,C#,,,,,None,Cybersecurity Analyst
+C#,HTML/CSS,,,,,None,Game Developer
+Python,SQL,,,,,None,Database Administrator
+C/C++,SQL,PHP,HTML/CSS,,,None,Database Administrator
+Java,PHP,Kotlin,,Swift,,React,Mobile App Developer (iOS)
+Java,Python,JavaScript,,,,React,Mobile App Developer (Android)
+Java,SQL,,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,Java,,Python,,PHP,React,Front-End Developer
+JavaScript,Kotlin,,,,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,,SQL,,,None,Database Administrator
+Python,PHP,C/C++,,,,None,Cybersecurity Analyst
+C/C++,HTML/CSS,SQL,Java,,,None,Database Administrator
+JavaScript,SQL,,,,,None,Database Administrator
+Java,C#,,PHP,,,None,Mobile App Developer (Android)
+C#,PHP,,,,,None,Game Developer
+Java,SQL,HTML/CSS,C#,PHP,C/C++,React,Mobile App Developer (Android)
+JavaScript,PHP,C#,,,C/C++,React,Front-End Developer
+Python,HTML/CSS,C/C++,JavaScript,PHP,,None,Cybersecurity Analyst
+JavaScript,,,,C#,,React,Front-End Developer
+C/C++,SQL,,Swift,,,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,,Swift,,,React,Mobile App Developer (iOS)
+JavaScript,Kotlin,,,,C#,React,Mobile App Developer (Android)
+C/C++,C#,Python,,,,None,Game Developer
+Java,JavaScript,,,Kotlin,,None,Mobile App Developer (Android)
+Python,C#,,,,,None,Cybersecurity Analyst
+Java,Python,C/C++,,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,,HTML/CSS,,,,None,Front-End Developer
+Python,HTML/CSS,,,,PHP,None,Cybersecurity Analyst
+JavaScript,C#,PHP,,,,React,Front-End Developer
+JavaScript,Kotlin,,,,C/C++,React,Mobile App Developer (Android)
+C/C++,Java,,,,,None,Game Developer
+JavaScript,HTML/CSS,C/C++,Python,Java,,React,Front-End Developer
+JavaScript,HTML/CSS,,,Swift,,React,Mobile App Developer (iOS)
+C/C++,PHP,,,C#,Kotlin,React,Mobile App Developer (Android)
+JavaScript,SQL,,,C#,Swift,None,Mobile App Developer (iOS)
+C/C++,Swift,PHP,SQL,,,React,Mobile App Developer (iOS)
+JavaScript,Python,,HTML/CSS,Kotlin,,React,Mobile App Developer (Android)
+C#,Java,,,,SQL,None,Database Administrator
+Java,Python,Swift,C#,Kotlin,SQL,None,Mobile App Developer (iOS)
+C#,PHP,,,,,None,Game Developer
+C#,,,JavaScript,,,None,Game Developer
+C/C++,HTML/CSS,SQL,,Java,,None,Database Administrator
+Java,Swift,,,,,React,Mobile App Developer (iOS)
+Python,C/C++,,,PHP,Kotlin,None,Mobile App Developer (Android)
+Python,Kotlin,C#,PHP,,JavaScript,React,Mobile App Developer (Android)
+C/C++,SQL,,,,,None,Database Administrator
+Java,Python,Kotlin,,,,None,Mobile App Developer (Android)
+Python,C#,,,,,None,Cybersecurity Analyst
+JavaScript,C#,,Kotlin,C/C++,,React,Mobile App Developer (Android)
+Java,Python,,HTML/CSS,,PHP,React,Mobile App Developer (Android)
+C/C++,C#,,,HTML/CSS,,None,Game Developer
+Java,SQL,HTML/CSS,,,C#,React,Mobile App Developer (Android)
+Java,Kotlin,,,SQL,HTML/CSS,None,Mobile App Developer (Android)
+C#,C/C++,,Swift,,JavaScript,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,,,,PHP,None,Game Developer
+C/C++,HTML/CSS,,,PHP,,None,Game Developer
+Java,Python,,C/C++,SQL,,React,Mobile App Developer (Android)
+Python,HTML/CSS,,Kotlin,Swift,,None,Mobile App Developer (iOS)
+C#,,Swift,,Kotlin,JavaScript,None,Mobile App Developer (iOS)
+Python,HTML/CSS,,C/C++,,,None,Cybersecurity Analyst
+C#,HTML/CSS,,,,,None,Game Developer
+Python,PHP,SQL,,,,None,Database Administrator
+C/C++,Java,,,SQL,JavaScript,None,Database Administrator
+Java,,HTML/CSS,,,,None,Mobile App Developer (Android)
+C#,HTML/CSS,Java,SQL,,,None,Database Administrator
+C#,PHP,,,,,None,Game Developer
+Java,Swift,,,,,None,Mobile App Developer (iOS)
+C/C++,Swift,Python,,,Java,None,Mobile App Developer (iOS)
+C#,HTML/CSS,,PHP,,,None,Game Developer
+C/C++,,C#,,Swift,,None,Mobile App Developer (iOS)
+Python,Java,C/C++,,,Kotlin,React,Mobile App Developer (Android)
+C#,C/C++,,,JavaScript,,None,Game Developer
+C#,,,Java,,,None,Game Developer
+Python,PHP,,,,,None,Cybersecurity Analyst
+JavaScript,Java,Kotlin,,,SQL,React,Mobile App Developer (Android)
+C#,Java,,,,,None,Game Developer
+C/C++,PHP,HTML/CSS,,Kotlin,Swift,None,Mobile App Developer (iOS)
+C/C++,Kotlin,Python,PHP,SQL,HTML/CSS,None,Mobile App Developer (Android)
+C/C++,Kotlin,,,,,None,Mobile App Developer (Android)
+Java,Swift,Python,,,,None,Mobile App Developer (iOS)
+JavaScript,HTML/CSS,SQL,,,PHP,None,Database Administrator
+JavaScript,C#,,Kotlin,,,None,Mobile App Developer (Android)
+C#,Swift,Java,SQL,JavaScript,,React,Mobile App Developer (iOS)
+Java,HTML/CSS,,Python,C/C++,PHP,React,Mobile App Developer (Android)
+JavaScript,Swift,,,Python,,None,Mobile App Developer (iOS)
+Python,Java,,,,,None,Cybersecurity Analyst
+C/C++,PHP,Kotlin,C#,JavaScript,,None,Mobile App Developer (Android)
+C/C++,Python,Java,,,,None,Game Developer
+Python,Kotlin,,,,,React,Mobile App Developer (Android)
+Python,SQL,JavaScript,Swift,C/C++,C#,React,Mobile App Developer (iOS)
+C/C++,Python,,,,,None,Game Developer
+C/C++,,,JavaScript,,Swift,None,Mobile App Developer (iOS)
+Python,C#,SQL,PHP,,,None,Database Administrator
+C/C++,SQL,HTML/CSS,,,,None,Database Administrator
+Python,Java,SQL,,HTML/CSS,C#,None,Database Administrator
+Java,Swift,Kotlin,,C#,HTML/CSS,React,Mobile App Developer (iOS)
+C#,Python,,Swift,JavaScript,Kotlin,React,Mobile App Developer (iOS)
+JavaScript,,Python,,C#,,None,Front-End Developer
+Java,C#,PHP,,,Swift,React,Mobile App Developer (iOS)
+JavaScript,Kotlin,C#,,,C/C++,None,Mobile App Developer (Android)
+C#,,,,JavaScript,C/C++,None,Game Developer
+JavaScript,Kotlin,,SQL,,,None,Mobile App Developer (Android)
+C/C++,Swift,SQL,,,Kotlin,None,Mobile App Developer (iOS)
+JavaScript,Java,HTML/CSS,,,Python,None,Front-End Developer
+C/C++,Kotlin,,,,,React,Mobile App Developer (Android)
+C#,HTML/CSS,Java,,,,None,Game Developer
+JavaScript,PHP,SQL,HTML/CSS,C/C++,Kotlin,React,Mobile App Developer (Android)
+JavaScript,Java,,,,HTML/CSS,React,Front-End Developer
+Python,Kotlin,,HTML/CSS,,,None,Mobile App Developer (Android)
+Python,Swift,,,,C#,None,Mobile App Developer (iOS)
+Python,,,C/C++,Swift,,None,Mobile App Developer (iOS)
+Java,Swift,,Kotlin,Python,,React,Mobile App Developer (iOS)
+C/C++,Python,,C#,,SQL,None,Database Administrator
+C#,Python,C/C++,,SQL,,None,Database Administrator
+JavaScript,C#,,Java,C/C++,,React,Front-End Developer
+Python,,,,,,None,Cybersecurity Analyst
+Java,C/C++,,,,,None,Mobile App Developer (Android)
+C#,C/C++,,,JavaScript,,None,Game Developer
+C#,SQL,,,PHP,,None,Database Administrator
+C#,Kotlin,,,Java,,React,Mobile App Developer (Android)
+Python,,,,,C#,None,Cybersecurity Analyst
+Java,JavaScript,,Python,,,None,Mobile App Developer (Android)
+Python,SQL,,,,Swift,React,Mobile App Developer (iOS)
+Java,C#,,C/C++,,,None,Mobile App Developer (Android)
+Python,C#,,,,HTML/CSS,None,Cybersecurity Analyst
+JavaScript,Python,C/C++,Kotlin,,SQL,None,Mobile App Developer (Android)
+C/C++,,,,Java,,None,Game Developer
+C#,Java,,SQL,,Kotlin,None,Mobile App Developer (Android)
+Python,HTML/CSS,Swift,,,,None,Mobile App Developer (iOS)
+Java,Python,HTML/CSS,,,,None,Mobile App Developer (Android)
+JavaScript,C/C++,PHP,,,Python,React,Front-End Developer
+Java,C/C++,Python,C#,,PHP,None,Mobile App Developer (Android)
+Java,C#,,Python,,,None,Mobile App Developer (Android)
+C#,PHP,,,Java,,None,Game Developer
+Java,HTML/CSS,,Kotlin,C/C++,,None,Mobile App Developer (Android)
+Java,PHP,Swift,JavaScript,,C#,React,Mobile App Developer (iOS)
+JavaScript,Java,,Python,HTML/CSS,C#,React,Front-End Developer
+Java,C/C++,,,,SQL,None,Mobile App Developer (Android)
+Python,C/C++,,Kotlin,,,None,Mobile App Developer (Android)
+Python,C#,,Kotlin,,HTML/CSS,None,Mobile App Developer (Android)
+C#,HTML/CSS,,,,JavaScript,None,Game Developer
+C/C++,HTML/CSS,Python,PHP,,,None,Game Developer
+C/C++,C#,,,,,None,Game Developer
+C#,C/C++,Python,,,,None,Game Developer
+Python,JavaScript,C#,,HTML/CSS,SQL,None,Database Administrator
+JavaScript,PHP,,Swift,Java,,React,Mobile App Developer (iOS)
+Python,C/C++,,JavaScript,HTML/CSS,,None,Cybersecurity Analyst
+C/C++,Python,Swift,,HTML/CSS,,None,Mobile App Developer (iOS)
+Java,SQL,Swift,,Python,,None,Mobile App Developer (iOS)
+C/C++,,,,,,None,Game Developer
+C/C++,Swift,C#,SQL,,,React,Mobile App Developer (iOS)
+C/C++,PHP,,,,SQL,None,Database Administrator
+Python,Kotlin,,,,C#,React,Mobile App Developer (Android)
+JavaScript,SQL,,Swift,Python,PHP,None,Mobile App Developer (iOS)
+C/C++,Python,,,,,None,Game Developer
+Java,HTML/CSS,,,Python,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,,Swift,SQL,,None,Mobile App Developer (iOS)
+JavaScript,Java,,,Swift,,None,Mobile App Developer (iOS)
+C#,Swift,,PHP,,,React,Mobile App Developer (iOS)
+JavaScript,PHP,,,,,React,Front-End Developer
+C/C++,C#,,,,,None,Game Developer
+C#,Java,,,C/C++,,None,Game Developer
+JavaScript,Kotlin,PHP,,Python,,React,Mobile App Developer (Android)
+C#,,Swift,,,PHP,React,Mobile App Developer (iOS)
+C/C++,HTML/CSS,Kotlin,,SQL,Python,React,Mobile App Developer (Android)
+C#,HTML/CSS,,,,C/C++,None,Game Developer
+C#,,,,,SQL,None,Database Administrator
+Python,HTML/CSS,,,JavaScript,,None,Cybersecurity Analyst
+Python,,Kotlin,,,,None,Mobile App Developer (Android)
+JavaScript,Swift,HTML/CSS,,PHP,,React,Mobile App Developer (iOS)
+C/C++,PHP,,Python,,,None,Game Developer
+C/C++,SQL,,,Kotlin,,React,Mobile App Developer (Android)
+C#,PHP,,,,JavaScript,None,Game Developer
+C/C++,Swift,Python,,Java,,React,Mobile App Developer (iOS)
+Python,JavaScript,,,Kotlin,C/C++,None,Mobile App Developer (Android)
+C/C++,PHP,C#,JavaScript,Kotlin,SQL,None,Mobile App Developer (Android)
+Python,C#,Java,HTML/CSS,Swift,,React,Mobile App Developer (iOS)
+C/C++,SQL,,,,,None,Database Administrator
+C#,HTML/CSS,PHP,Swift,,,None,Mobile App Developer (iOS)
+Python,JavaScript,PHP,C/C++,Swift,Kotlin,None,Mobile App Developer (iOS)
+Python,SQL,Swift,Java,,,None,Mobile App Developer (iOS)
+Java,Python,,PHP,C#,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,PHP,,Python,,None,Game Developer
+C/C++,Swift,Kotlin,,PHP,,React,Mobile App Developer (iOS)
+JavaScript,Java,,,SQL,,None,Database Administrator
+Python,PHP,Swift,HTML/CSS,,C/C++,React,Mobile App Developer (iOS)
+JavaScript,Java,,SQL,Kotlin,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,,,,C#,None,Game Developer
+C/C++,,,,,,None,Game Developer
+C#,HTML/CSS,,Java,JavaScript,C/C++,None,Game Developer
+Python,Swift,,,,C/C++,None,Mobile App Developer (iOS)
+C#,Java,JavaScript,Kotlin,,,React,Mobile App Developer (Android)
+C#,HTML/CSS,Swift,,Kotlin,PHP,None,Mobile App Developer (iOS)
+Java,JavaScript,,,,SQL,None,Mobile App Developer (Android)
+Python,Kotlin,,,,PHP,None,Mobile App Developer (Android)
+C#,C/C++,SQL,Kotlin,Swift,JavaScript,None,Mobile App Developer (iOS)
+C/C++,Swift,Kotlin,JavaScript,,,None,Mobile App Developer (iOS)
+C#,Python,C/C++,SQL,,Java,None,Database Administrator
+Python,HTML/CSS,Swift,JavaScript,,,None,Mobile App Developer (iOS)
+C#,C/C++,,,,,None,Game Developer
+C/C++,HTML/CSS,,,C#,Kotlin,None,Mobile App Developer (Android)
+Java,Python,HTML/CSS,,,C/C++,None,Mobile App Developer (Android)
+Python,,Kotlin,,,,React,Mobile App Developer (Android)
+Python,Swift,,,C/C++,,None,Mobile App Developer (iOS)
+C/C++,Kotlin,,Python,Java,HTML/CSS,None,Mobile App Developer (Android)
+Java,SQL,Python,,,Swift,None,Mobile App Developer (iOS)
+Python,SQL,,,,Kotlin,None,Mobile App Developer (Android)
+Java,C/C++,,,,,React,Mobile App Developer (Android)
+C/C++,Python,C#,,,JavaScript,None,Game Developer
+Python,Java,,,,,None,Cybersecurity Analyst
+Python,,,PHP,,HTML/CSS,None,Cybersecurity Analyst
+JavaScript,Python,Java,,HTML/CSS,C#,None,Front-End Developer
+JavaScript,Kotlin,HTML/CSS,Java,SQL,,React,Mobile App Developer (Android)
+JavaScript,PHP,Swift,HTML/CSS,,,None,Mobile App Developer (iOS)
+JavaScript,,,SQL,,C/C++,None,Database Administrator
+C/C++,Python,JavaScript,,,,None,Game Developer
+Java,C#,,,PHP,Python,None,Mobile App Developer (Android)
+C#,Python,,,,,None,Game Developer
+Java,Swift,,,C#,,None,Mobile App Developer (iOS)
+Python,,,C#,,,None,Cybersecurity Analyst
+C#,JavaScript,,,,,None,Game Developer
+C/C++,JavaScript,Kotlin,Swift,HTML/CSS,,None,Mobile App Developer (iOS)
+Java,JavaScript,,Python,Swift,C#,None,Mobile App Developer (iOS)
+C/C++,C#,,,HTML/CSS,,None,Game Developer
+JavaScript,C/C++,,,C#,Java,None,Front-End Developer
+Java,JavaScript,,PHP,,,None,Mobile App Developer (Android)
+Java,Kotlin,,,,,None,Mobile App Developer (Android)
+C#,Kotlin,,,,JavaScript,None,Mobile App Developer (Android)
+Python,HTML/CSS,,,,,None,Cybersecurity Analyst
+C/C++,Python,,JavaScript,,,None,Game Developer
+C/C++,SQL,,,,,None,Database Administrator
+Python,,C#,,,,None,Cybersecurity Analyst
+JavaScript,Python,Kotlin,Java,PHP,,None,Mobile App Developer (Android)
+JavaScript,PHP,,SQL,,C#,None,Database Administrator
+Python,Kotlin,Swift,,HTML/CSS,C#,None,Mobile App Developer (iOS)
+C#,SQL,,,,,None,Database Administrator
+C/C++,HTML/CSS,JavaScript,Java,,,None,Game Developer
+C#,HTML/CSS,,SQL,,Java,None,Database Administrator
+C/C++,JavaScript,Kotlin,,,PHP,React,Mobile App Developer (Android)
+Python,PHP,,,Kotlin,Swift,None,Mobile App Developer (iOS)
+Java,C/C++,JavaScript,HTML/CSS,Python,Kotlin,None,Mobile App Developer (Android)
+C/C++,JavaScript,Kotlin,,,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,,,Java,,None,Game Developer
+Java,Kotlin,,,C#,,None,Mobile App Developer (Android)
+C#,Swift,,PHP,,,None,Mobile App Developer (iOS)
+Java,JavaScript,,,,HTML/CSS,None,Mobile App Developer (Android)
+C/C++,Java,,,,,None,Game Developer
+C#,Java,C/C++,Python,,JavaScript,None,Game Developer
+Python,Java,SQL,,Swift,,React,Mobile App Developer (iOS)
+JavaScript,C/C++,,Swift,,,None,Mobile App Developer (iOS)
+C/C++,JavaScript,,SQL,,Java,None,Database Administrator
+Python,SQL,C#,PHP,HTML/CSS,,None,Database Administrator
+Python,JavaScript,C/C++,PHP,,Java,None,Cybersecurity Analyst
+Java,,C#,,,,None,Mobile App Developer (Android)
+C#,Kotlin,SQL,,JavaScript,,React,Mobile App Developer (Android)
+JavaScript,Java,Kotlin,,,,React,Mobile App Developer (Android)
+Java,Python,,,JavaScript,,None,Mobile App Developer (Android)
+C#,Swift,C/C++,JavaScript,SQL,PHP,React,Mobile App Developer (iOS)
+Python,,,,Swift,,React,Mobile App Developer (iOS)
+C#,,Java,,,,None,Game Developer
+Python,SQL,,,C#,,None,Database Administrator
+Java,Kotlin,,,,,React,Mobile App Developer (Android)
+C/C++,C#,,HTML/CSS,,,None,Game Developer
+C/C++,JavaScript,HTML/CSS,,,PHP,None,Game Developer
+C/C++,,Python,,,,None,Game Developer
+Java,JavaScript,,PHP,,,React,Mobile App Developer (Android)
+Python,Swift,Kotlin,,,JavaScript,React,Mobile App Developer (iOS)
+Python,JavaScript,,C#,,,None,Cybersecurity Analyst
+C#,Swift,,,Python,,React,Mobile App Developer (iOS)
+Java,Swift,,,,,React,Mobile App Developer (iOS)
+C#,Swift,,,,JavaScript,None,Mobile App Developer (iOS)
+C#,Swift,,,Java,HTML/CSS,React,Mobile App Developer (iOS)
+Python,C/C++,,Swift,Kotlin,SQL,None,Mobile App Developer (iOS)
+JavaScript,PHP,,,,,React,Front-End Developer
+JavaScript,C/C++,,,,,React,Front-End Developer
+C#,Python,,Java,,Kotlin,React,Mobile App Developer (Android)
+C/C++,,,,,HTML/CSS,None,Game Developer
+JavaScript,HTML/CSS,,,,,React,Front-End Developer
+JavaScript,C/C++,Kotlin,Swift,Java,,React,Mobile App Developer (iOS)
+C#,Python,JavaScript,,,,None,Game Developer
+C#,JavaScript,,Kotlin,C/C++,,None,Mobile App Developer (Android)
+C#,HTML/CSS,,,,,None,Game Developer
+Python,SQL,,,,C#,None,Database Administrator
+Java,C#,Python,,JavaScript,C/C++,None,Mobile App Developer (Android)
+JavaScript,Kotlin,,,,,None,Mobile App Developer (Android)
+Java,Kotlin,,Swift,,SQL,None,Mobile App Developer (iOS)
+C#,JavaScript,PHP,Java,,,None,Game Developer
+C/C++,Swift,,,,,None,Mobile App Developer (iOS)
+C/C++,Kotlin,Python,Java,,,React,Mobile App Developer (Android)
+Python,C#,,SQL,Kotlin,Java,React,Mobile App Developer (Android)
+Python,Kotlin,SQL,,,,React,Mobile App Developer (Android)
+JavaScript,HTML/CSS,C/C++,PHP,Kotlin,,None,Mobile App Developer (Android)
+C#,SQL,,,,,None,Database Administrator
+C/C++,Kotlin,,,HTML/CSS,JavaScript,React,Mobile App Developer (Android)
+Java,PHP,,,,SQL,None,Mobile App Developer (Android)
+Java,C/C++,JavaScript,SQL,PHP,,None,Mobile App Developer (Android)
+C#,PHP,,,,,None,Game Developer
+C#,SQL,JavaScript,,Python,,None,Database Administrator
+JavaScript,Swift,Java,C/C++,PHP,,React,Mobile App Developer (iOS)
+C/C++,HTML/CSS,JavaScript,,PHP,Python,None,Game Developer
+C#,JavaScript,,,Java,,None,Game Developer
+JavaScript,PHP,,Java,,C#,None,Front-End Developer
+Python,,,Swift,SQL,PHP,None,Mobile App Developer (iOS)
+Python,SQL,Kotlin,C#,,,None,Mobile App Developer (Android)
+Java,C#,,,PHP,,React,Mobile App Developer (Android)
+JavaScript,HTML/CSS,Kotlin,,,Python,None,Mobile App Developer (Android)
+C#,SQL,,Java,,Kotlin,None,Mobile App Developer (Android)
+Java,PHP,,Swift,,,None,Mobile App Developer (iOS)
+C/C++,,,SQL,,Java,None,Database Administrator
+Java,,,SQL,,HTML/CSS,None,Mobile App Developer (Android)
+JavaScript,HTML/CSS,,Java,SQL,,None,Database Administrator
+JavaScript,C#,Python,Kotlin,HTML/CSS,,None,Mobile App Developer (Android)
+Python,Kotlin,HTML/CSS,Swift,C#,JavaScript,None,Mobile App Developer (iOS)
+JavaScript,Kotlin,PHP,C/C++,,,React,Mobile App Developer (Android)
+JavaScript,SQL,PHP,,C/C++,,None,Database Administrator
+JavaScript,Java,C#,,,,React,Front-End Developer
+Java,PHP,,,,,None,Mobile App Developer (Android)
+JavaScript,PHP,SQL,,,,None,Database Administrator
+Python,Java,Swift,,,,None,Mobile App Developer (iOS)
+C#,JavaScript,,,Python,,None,Game Developer
+C#,Swift,,,,,None,Mobile App Developer (iOS)
+Java,Kotlin,,,Python,C/C++,React,Mobile App Developer (Android)
+C/C++,SQL,JavaScript,Kotlin,Java,,None,Mobile App Developer (Android)
+JavaScript,,,,PHP,,None,Front-End Developer
+Java,C#,,,,,React,Mobile App Developer (Android)
+C/C++,,,,,Swift,None,Mobile App Developer (iOS)
+C/C++,Kotlin,,,Swift,,React,Mobile App Developer (iOS)
+Java,Python,,Kotlin,C#,Swift,React,Mobile App Developer (iOS)
+JavaScript,C#,,Java,,,React,Front-End Developer
+JavaScript,Python,SQL,,HTML/CSS,,None,Database Administrator
+Java,PHP,,,,JavaScript,React,Mobile App Developer (Android)
+C#,Swift,PHP,Python,,,None,Mobile App Developer (iOS)
+Python,C#,,,,Swift,None,Mobile App Developer (iOS)
+JavaScript,PHP,,,,,React,Front-End Developer
+Java,HTML/CSS,C/C++,,Kotlin,Python,None,Mobile App Developer (Android)
+C#,,,PHP,,,None,Game Developer
+JavaScript,PHP,HTML/CSS,Python,SQL,C/C++,None,Database Administrator
+C#,C/C++,,PHP,,,None,Game Developer
+C/C++,Python,,HTML/CSS,,PHP,None,Game Developer
+C#,Kotlin,,JavaScript,,,None,Mobile App Developer (Android)
+C#,SQL,HTML/CSS,Python,,,None,Database Administrator
+C#,Python,,Swift,PHP,C/C++,None,Mobile App Developer (iOS)
+Python,Java,,,,HTML/CSS,None,Cybersecurity Analyst
+C/C++,C#,,,,HTML/CSS,None,Game Developer
+Python,Swift,,,Java,HTML/CSS,None,Mobile App Developer (iOS)
+C/C++,PHP,JavaScript,HTML/CSS,,SQL,None,Database Administrator
+Java,Swift,,,PHP,JavaScript,None,Mobile App Developer (iOS)
+Java,,,,PHP,,React,Mobile App Developer (Android)
+C#,PHP,,,Java,,None,Game Developer
+JavaScript,Swift,Kotlin,PHP,Java,,None,Mobile App Developer (iOS)
+JavaScript,HTML/CSS,,,C/C++,Java,React,Front-End Developer
+Java,C#,HTML/CSS,,PHP,,React,Mobile App Developer (Android)
+Java,Kotlin,,HTML/CSS,Swift,,React,Mobile App Developer (iOS)
+JavaScript,C#,,,,Kotlin,React,Mobile App Developer (Android)
+C/C++,Kotlin,,,,,React,Mobile App Developer (Android)
+Python,JavaScript,C#,,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,SQL,,,Python,,None,Database Administrator
+Java,Kotlin,,HTML/CSS,C/C++,,React,Mobile App Developer (Android)
+C/C++,Python,PHP,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,SQL,,Java,Swift,,None,Mobile App Developer (iOS)
+Python,C#,,JavaScript,HTML/CSS,SQL,None,Database Administrator
+Java,C/C++,,,,Kotlin,None,Mobile App Developer (Android)
+Python,C/C++,,JavaScript,SQL,,None,Database Administrator
+Python,C#,JavaScript,Swift,,Java,None,Mobile App Developer (iOS)
+Java,HTML/CSS,,,,,React,Mobile App Developer (Android)
+Python,PHP,C/C++,,C#,,None,Cybersecurity Analyst
+C/C++,PHP,SQL,,HTML/CSS,,None,Database Administrator
+C/C++,Kotlin,JavaScript,,,,None,Mobile App Developer (Android)
+C/C++,Python,,,C#,SQL,None,Database Administrator
+Java,Swift,,SQL,,,None,Mobile App Developer (iOS)
+Java,PHP,,,,,None,Mobile App Developer (Android)
+JavaScript,HTML/CSS,,C#,,,React,Front-End Developer
+JavaScript,PHP,,,C/C++,,React,Front-End Developer
+JavaScript,HTML/CSS,,Python,,Swift,None,Mobile App Developer (iOS)
+C#,C/C++,,HTML/CSS,,PHP,None,Game Developer
+C#,JavaScript,Kotlin,PHP,C/C++,,None,Mobile App Developer (Android)
+C/C++,Swift,Java,,,PHP,None,Mobile App Developer (iOS)
+Java,Python,,,PHP,,None,Mobile App Developer (Android)
+C#,Swift,Kotlin,,,,None,Mobile App Developer (iOS)
+C/C++,,,Python,Java,Swift,React,Mobile App Developer (iOS)
+C/C++,Python,,,,,None,Game Developer
+Python,Kotlin,PHP,C#,,,React,Mobile App Developer (Android)
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+JavaScript,C#,Java,HTML/CSS,,Swift,React,Mobile App Developer (iOS)
+C#,SQL,,,PHP,Swift,None,Mobile App Developer (iOS)
+JavaScript,,,,,SQL,None,Database Administrator
+Python,HTML/CSS,JavaScript,,,,None,Cybersecurity Analyst
+C/C++,,Python,,Kotlin,,None,Mobile App Developer (Android)
+JavaScript,Python,Java,,,,React,Front-End Developer
+C#,Python,,,,,None,Game Developer
+C/C++,Java,,HTML/CSS,JavaScript,,None,Game Developer
+Python,SQL,,,,,None,Database Administrator
+C#,SQL,,Java,C/C++,Swift,None,Mobile App Developer (iOS)
+JavaScript,C#,Kotlin,,C/C++,,None,Mobile App Developer (Android)
+Java,Swift,,,PHP,SQL,None,Mobile App Developer (iOS)
+Java,Swift,,,,,React,Mobile App Developer (iOS)
+Python,SQL,Java,,Swift,JavaScript,None,Mobile App Developer (iOS)
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+JavaScript,HTML/CSS,,Swift,,,React,Mobile App Developer (iOS)
+C#,Java,,,,,None,Game Developer
+C/C++,,,C#,,,None,Game Developer
+Java,SQL,Python,,C#,,None,Mobile App Developer (Android)
+C#,HTML/CSS,SQL,,Swift,,None,Mobile App Developer (iOS)
+Python,Swift,PHP,,,,None,Mobile App Developer (iOS)
+C#,SQL,,,Python,Swift,None,Mobile App Developer (iOS)
+Java,Kotlin,,,,HTML/CSS,React,Mobile App Developer (Android)
+Python,PHP,,,C/C++,,None,Cybersecurity Analyst
+Java,JavaScript,,,SQL,,React,Mobile App Developer (Android)
+C#,C/C++,HTML/CSS,,JavaScript,,None,Game Developer
+Java,Kotlin,,,JavaScript,,None,Mobile App Developer (Android)
+JavaScript,Swift,,,,,None,Mobile App Developer (iOS)
+Java,JavaScript,,,,PHP,None,Mobile App Developer (Android)
+Java,PHP,,Kotlin,,SQL,None,Mobile App Developer (Android)
+Python,Java,,,SQL,JavaScript,None,Database Administrator
+C#,SQL,HTML/CSS,,,,None,Database Administrator
+C#,Java,Python,,,JavaScript,None,Game Developer
+C/C++,PHP,,Swift,,,None,Mobile App Developer (iOS)
+Python,,,,C/C++,SQL,None,Database Administrator
+C#,PHP,,C/C++,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,Java,,Kotlin,PHP,,None,Mobile App Developer (Android)
+C#,,,Python,Swift,,React,Mobile App Developer (iOS)
+C#,Python,,,,,None,Game Developer
+Java,Kotlin,Python,,,,None,Mobile App Developer (Android)
+C#,C/C++,,,,JavaScript,None,Game Developer
+C/C++,Java,SQL,,,JavaScript,None,Database Administrator
+Python,,,C#,Java,JavaScript,None,Cybersecurity Analyst
+Python,SQL,,,JavaScript,,None,Database Administrator
+Python,Swift,JavaScript,,,HTML/CSS,None,Mobile App Developer (iOS)
+Java,C#,,,,,React,Mobile App Developer (Android)
+Java,Kotlin,,C/C++,,,None,Mobile App Developer (Android)
+C#,,C/C++,,JavaScript,Java,None,Game Developer
+Java,HTML/CSS,C/C++,,,,None,Mobile App Developer (Android)
+Python,,C#,JavaScript,SQL,Java,None,Database Administrator
+Java,HTML/CSS,,,Python,C#,React,Mobile App Developer (Android)
+C#,PHP,Python,,HTML/CSS,,None,Game Developer
+Java,PHP,C#,,,JavaScript,None,Mobile App Developer (Android)
+Java,Python,JavaScript,,HTML/CSS,C#,None,Mobile App Developer (Android)
+Java,HTML/CSS,C/C++,,PHP,Kotlin,React,Mobile App Developer (Android)
+C/C++,SQL,,,C#,Kotlin,React,Mobile App Developer (Android)
+C#,Swift,C/C++,SQL,,PHP,None,Mobile App Developer (iOS)
+JavaScript,PHP,,,C/C++,SQL,None,Database Administrator
+C/C++,HTML/CSS,,,,Python,None,Game Developer
+Python,SQL,,JavaScript,,,None,Database Administrator
+C/C++,Python,C#,,SQL,,None,Database Administrator
+Java,,,,,,None,Mobile App Developer (Android)
+C#,Swift,,SQL,,Python,None,Mobile App Developer (iOS)
+Java,PHP,,C/C++,Swift,,React,Mobile App Developer (iOS)
+C#,HTML/CSS,,,,,None,Game Developer
+C#,PHP,,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,Python,,,PHP,SQL,None,Database Administrator
+C/C++,Swift,Java,,HTML/CSS,,None,Mobile App Developer (iOS)
+C#,Java,,,,,None,Game Developer
+C#,SQL,,,JavaScript,,None,Database Administrator
+Python,SQL,,,HTML/CSS,Swift,React,Mobile App Developer (iOS)
+C#,JavaScript,,,Swift,Kotlin,React,Mobile App Developer (iOS)
+JavaScript,Java,,,,,React,Front-End Developer
+C#,PHP,Kotlin,SQL,,,None,Mobile App Developer (Android)
+C#,Swift,,JavaScript,Java,,None,Mobile App Developer (iOS)
+C/C++,Swift,Kotlin,,,HTML/CSS,None,Mobile App Developer (iOS)
+C/C++,PHP,,HTML/CSS,JavaScript,,None,Game Developer
+C#,Kotlin,,,,,None,Mobile App Developer (Android)
+C/C++,JavaScript,,,HTML/CSS,Java,None,Game Developer
+C/C++,C#,,,Java,JavaScript,None,Game Developer
+Python,Java,,,,PHP,None,Cybersecurity Analyst
+JavaScript,Kotlin,C/C++,Java,,PHP,React,Mobile App Developer (Android)
+Java,SQL,,,Python,,React,Mobile App Developer (Android)
+C/C++,PHP,Swift,SQL,,,None,Mobile App Developer (iOS)
+Python,C/C++,C#,,PHP,Kotlin,React,Mobile App Developer (Android)
+Python,Swift,C/C++,,,,React,Mobile App Developer (iOS)
+C/C++,SQL,,,PHP,,None,Database Administrator
+Java,,,C/C++,,SQL,None,Mobile App Developer (Android)
+C#,HTML/CSS,,,,C/C++,None,Game Developer
+C/C++,Java,,,,,None,Game Developer
+Java,HTML/CSS,,,Python,,React,Mobile App Developer (Android)
+Python,C/C++,,,JavaScript,,None,Cybersecurity Analyst
+JavaScript,Swift,HTML/CSS,,,,None,Mobile App Developer (iOS)
+C#,Swift,,SQL,C/C++,HTML/CSS,None,Mobile App Developer (iOS)
+C/C++,Python,,,,Java,None,Game Developer
+JavaScript,C#,,,Java,,React,Front-End Developer
+Python,PHP,C#,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,SQL,,,Java,,None,Database Administrator
+Python,,,,Swift,HTML/CSS,None,Mobile App Developer (iOS)
+Java,Swift,Python,,,SQL,None,Mobile App Developer (iOS)
+C#,Kotlin,,,,,React,Mobile App Developer (Android)
+C/C++,Java,,,Swift,,React,Mobile App Developer (iOS)
+C/C++,PHP,,,C#,Python,None,Game Developer
+C/C++,Python,Java,,,,None,Game Developer
+Java,PHP,Kotlin,C/C++,,SQL,None,Mobile App Developer (Android)
+Java,Swift,,,,SQL,None,Mobile App Developer (iOS)
+Java,SQL,,HTML/CSS,,PHP,None,Mobile App Developer (Android)
+Python,PHP,C#,,,,None,Cybersecurity Analyst
+Java,PHP,SQL,,,,None,Mobile App Developer (Android)
+Python,JavaScript,,,PHP,C/C++,None,Cybersecurity Analyst
+C/C++,Python,PHP,Kotlin,,Java,React,Mobile App Developer (Android)
+Python,C/C++,C#,,,JavaScript,None,Cybersecurity Analyst
+JavaScript,C#,,C/C++,,PHP,None,Front-End Developer
+JavaScript,HTML/CSS,C/C++,Kotlin,,,None,Mobile App Developer (Android)
+Python,,,,C/C++,HTML/CSS,None,Cybersecurity Analyst
+C#,Kotlin,,Python,,C/C++,None,Mobile App Developer (Android)
+JavaScript,Swift,,,,SQL,None,Mobile App Developer (iOS)
+C#,Python,JavaScript,HTML/CSS,,,None,Game Developer
+JavaScript,C/C++,,PHP,Swift,,None,Mobile App Developer (iOS)
+JavaScript,Java,Swift,,Kotlin,HTML/CSS,None,Mobile App Developer (iOS)
+C#,HTML/CSS,Swift,JavaScript,,,React,Mobile App Developer (iOS)
+C/C++,JavaScript,,Swift,SQL,Java,None,Mobile App Developer (iOS)
+JavaScript,Java,,,Kotlin,Swift,None,Mobile App Developer (iOS)
+C/C++,PHP,,,Java,Python,None,Game Developer
+C/C++,SQL,C#,PHP,,,None,Database Administrator
+JavaScript,SQL,,C/C++,,,None,Database Administrator
+C#,C/C++,,PHP,HTML/CSS,,None,Game Developer
+Python,C/C++,,HTML/CSS,,C#,None,Cybersecurity Analyst
+C/C++,Kotlin,,PHP,,,None,Mobile App Developer (Android)
+C#,Python,PHP,,Kotlin,,None,Mobile App Developer (Android)
+C/C++,Swift,,JavaScript,PHP,,None,Mobile App Developer (iOS)
+C/C++,JavaScript,,,HTML/CSS,SQL,None,Database Administrator
+C/C++,Swift,SQL,,,Python,None,Mobile App Developer (iOS)
+C/C++,PHP,,Kotlin,,,None,Mobile App Developer (Android)
+C#,Python,Swift,,Kotlin,Java,React,Mobile App Developer (iOS)
+C/C++,PHP,HTML/CSS,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,Python,,C/C++,Kotlin,Swift,None,Mobile App Developer (iOS)
+C#,Python,,Kotlin,,HTML/CSS,None,Mobile App Developer (Android)
+Java,JavaScript,,PHP,,Swift,None,Mobile App Developer (iOS)
+Python,,,,,,None,Cybersecurity Analyst
+Java,PHP,,,,,React,Mobile App Developer (Android)
+C#,Java,JavaScript,C/C++,,,None,Game Developer
+JavaScript,Kotlin,,Swift,,,None,Mobile App Developer (iOS)
+JavaScript,SQL,,Kotlin,Java,Python,None,Mobile App Developer (Android)
+C#,,,Kotlin,PHP,,None,Mobile App Developer (Android)
+C#,C/C++,HTML/CSS,,,,None,Game Developer
+Python,C#,,SQL,,Swift,React,Mobile App Developer (iOS)
+JavaScript,C/C++,,,,,None,Front-End Developer
+C/C++,SQL,,,,,None,Database Administrator
+Python,Kotlin,,Swift,,HTML/CSS,React,Mobile App Developer (iOS)
+Python,,,,,HTML/CSS,None,Cybersecurity Analyst
+C/C++,Swift,HTML/CSS,JavaScript,,Python,React,Mobile App Developer (iOS)
+JavaScript,Java,,,PHP,,React,Front-End Developer
+C/C++,Java,SQL,Swift,,,None,Mobile App Developer (iOS)
+Java,Swift,,C/C++,,,None,Mobile App Developer (iOS)
+C#,Python,,Kotlin,,,None,Mobile App Developer (Android)
+C#,HTML/CSS,,Python,,,None,Game Developer
+Java,C/C++,,,,,None,Mobile App Developer (Android)
+C/C++,PHP,,,,,None,Game Developer
+C#,HTML/CSS,Kotlin,,,,React,Mobile App Developer (Android)
+Python,Kotlin,HTML/CSS,JavaScript,Java,,React,Mobile App Developer (Android)
+Java,C/C++,Python,,,,React,Mobile App Developer (Android)
+JavaScript,C/C++,,PHP,,,React,Front-End Developer
+C#,SQL,,,Kotlin,,None,Mobile App Developer (Android)
+C#,Java,HTML/CSS,,Swift,Python,None,Mobile App Developer (iOS)
+Java,JavaScript,,C#,,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,,,,Java,None,Game Developer
+JavaScript,Python,,HTML/CSS,,Kotlin,None,Mobile App Developer (Android)
+C/C++,Kotlin,SQL,,,,None,Mobile App Developer (Android)
+Python,Kotlin,C#,,,,React,Mobile App Developer (Android)
+JavaScript,Python,,C#,,,React,Front-End Developer
+Java,Swift,C/C++,,C#,JavaScript,None,Mobile App Developer (iOS)
+Java,JavaScript,HTML/CSS,,,,None,Mobile App Developer (Android)
+JavaScript,C#,,,,,None,Front-End Developer
+Python,HTML/CSS,,C/C++,Java,,None,Cybersecurity Analyst
+C#,JavaScript,,Java,,,None,Game Developer
+C/C++,Java,,SQL,,JavaScript,None,Database Administrator
+Java,C#,Python,,,Swift,React,Mobile App Developer (iOS)
+C#,PHP,Java,,SQL,HTML/CSS,None,Database Administrator
+C#,Python,Kotlin,Swift,JavaScript,,None,Mobile App Developer (iOS)
+Python,Kotlin,,Java,C#,,None,Mobile App Developer (Android)
+Python,SQL,,,Java,,None,Database Administrator
+C/C++,JavaScript,Swift,C#,,,React,Mobile App Developer (iOS)
+Python,JavaScript,HTML/CSS,PHP,,,None,Cybersecurity Analyst
+JavaScript,PHP,,,Java,,None,Front-End Developer
+JavaScript,C#,Kotlin,Swift,,Java,None,Mobile App Developer (iOS)
+Java,Swift,,,,,React,Mobile App Developer (iOS)
+JavaScript,SQL,,,,,None,Database Administrator
+C/C++,JavaScript,C#,,,,None,Game Developer
+Python,JavaScript,,,,Swift,None,Mobile App Developer (iOS)
+Python,SQL,Java,JavaScript,,,None,Database Administrator
+Java,PHP,,,,C/C++,None,Mobile App Developer (Android)
+C/C++,JavaScript,,Python,Java,,None,Game Developer
+C/C++,JavaScript,Java,SQL,,,None,Database Administrator
+Java,JavaScript,,,Python,SQL,None,Mobile App Developer (Android)
+Java,JavaScript,,,,,React,Mobile App Developer (Android)
+C/C++,Kotlin,,,,,None,Mobile App Developer (Android)
+JavaScript,PHP,,,,Kotlin,None,Mobile App Developer (Android)
+C/C++,Java,,,,,None,Game Developer
+JavaScript,Kotlin,,,,HTML/CSS,React,Mobile App Developer (Android)
+JavaScript,SQL,Kotlin,,Python,,None,Mobile App Developer (Android)
+C/C++,Python,,,,,None,Game Developer
+JavaScript,C/C++,SQL,,Python,,None,Database Administrator
+Java,Kotlin,,Swift,,,None,Mobile App Developer (iOS)
+JavaScript,Python,Java,C#,,Swift,None,Mobile App Developer (iOS)
+Java,C/C++,,,HTML/CSS,,React,Mobile App Developer (Android)
+JavaScript,C/C++,,,,,React,Front-End Developer
+JavaScript,,,HTML/CSS,Kotlin,Java,None,Mobile App Developer (Android)
+Python,Java,,,,C/C++,None,Cybersecurity Analyst
+C/C++,C#,Swift,,,,React,Mobile App Developer (iOS)
+JavaScript,,,,SQL,,None,Database Administrator
+Java,PHP,HTML/CSS,,JavaScript,,None,Mobile App Developer (Android)
+JavaScript,,SQL,Kotlin,,,None,Mobile App Developer (Android)
+C#,Java,,,JavaScript,Swift,None,Mobile App Developer (iOS)
+Java,HTML/CSS,SQL,,,,None,Mobile App Developer (Android)
+JavaScript,Kotlin,,,,,React,Mobile App Developer (Android)
+C#,Java,,SQL,HTML/CSS,Python,None,Database Administrator
+C/C++,Java,,SQL,,HTML/CSS,None,Database Administrator
+C#,Swift,,,,C/C++,None,Mobile App Developer (iOS)
+C/C++,SQL,,HTML/CSS,,Java,None,Database Administrator
+Java,,SQL,Kotlin,C/C++,,React,Mobile App Developer (Android)
+C#,Python,C/C++,SQL,,,None,Database Administrator
+JavaScript,SQL,,,,,None,Database Administrator
+Python,PHP,SQL,Swift,,C#,None,Mobile App Developer (iOS)
+Python,Java,,C#,PHP,JavaScript,None,Cybersecurity Analyst
+JavaScript,Swift,C/C++,Python,,,None,Mobile App Developer (iOS)
+JavaScript,C/C++,PHP,SQL,C#,,None,Database Administrator
+JavaScript,C#,,,HTML/CSS,,None,Front-End Developer
+C/C++,,,,,,None,Game Developer
+C#,C/C++,SQL,,Kotlin,,None,Mobile App Developer (Android)
+Java,HTML/CSS,,,Python,,None,Mobile App Developer (Android)
+C/C++,SQL,,,Python,,None,Database Administrator
+C/C++,Kotlin,,C#,PHP,,None,Mobile App Developer (Android)
+C/C++,JavaScript,,C#,,,None,Game Developer
+JavaScript,HTML/CSS,Kotlin,PHP,Java,Python,React,Mobile App Developer (Android)
+JavaScript,PHP,,,,Java,React,Front-End Developer
+C/C++,HTML/CSS,Swift,,C#,,None,Mobile App Developer (iOS)
+C#,JavaScript,,,,C/C++,None,Game Developer
+C#,JavaScript,,,,PHP,None,Game Developer
+JavaScript,Kotlin,,C/C++,,,None,Mobile App Developer (Android)
+JavaScript,Swift,,,,,None,Mobile App Developer (iOS)
+C#,C/C++,Swift,,PHP,,None,Mobile App Developer (iOS)
+JavaScript,SQL,HTML/CSS,PHP,Java,C/C++,None,Database Administrator
+JavaScript,C#,,,,Kotlin,None,Mobile App Developer (Android)
+Python,Swift,,C/C++,,SQL,React,Mobile App Developer (iOS)
+C/C++,SQL,,PHP,,,None,Database Administrator
+Java,,C/C++,JavaScript,C#,SQL,React,Mobile App Developer (Android)
+Python,Kotlin,,Java,,,None,Mobile App Developer (Android)
+Python,Java,,,,,None,Cybersecurity Analyst
+C/C++,SQL,,,Kotlin,JavaScript,None,Mobile App Developer (Android)
+JavaScript,Java,PHP,,SQL,Kotlin,React,Mobile App Developer (Android)
+C#,C/C++,,,,,None,Game Developer
+JavaScript,SQL,Kotlin,,,PHP,React,Mobile App Developer (Android)
+Python,Java,,,,,None,Cybersecurity Analyst
+Java,Python,,Kotlin,,C/C++,None,Mobile App Developer (Android)
+C#,Swift,PHP,,,,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,,SQL,Swift,,None,Mobile App Developer (iOS)
+C/C++,Java,PHP,,Kotlin,,None,Mobile App Developer (Android)
+C/C++,Kotlin,,,PHP,,None,Mobile App Developer (Android)
+Python,JavaScript,,,C#,Kotlin,React,Mobile App Developer (Android)
+C#,PHP,HTML/CSS,,,C/C++,None,Game Developer
+JavaScript,Python,,,C/C++,,React,Front-End Developer
+Python,JavaScript,,HTML/CSS,Swift,,None,Mobile App Developer (iOS)
+Java,Swift,,,,,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,,Kotlin,,,None,Mobile App Developer (Android)
+C/C++,Swift,,Kotlin,,,React,Mobile App Developer (iOS)
+JavaScript,Java,,,Kotlin,,React,Mobile App Developer (Android)
+Java,,JavaScript,,,,React,Mobile App Developer (Android)
+Java,PHP,Python,,,,None,Mobile App Developer (Android)
+Python,JavaScript,,,Java,HTML/CSS,None,Cybersecurity Analyst
+C/C++,,HTML/CSS,SQL,C#,,None,Database Administrator
+Java,SQL,C/C++,HTML/CSS,,,None,Mobile App Developer (Android)
+C#,Python,Swift,,PHP,HTML/CSS,React,Mobile App Developer (iOS)
+C/C++,SQL,,,,,None,Database Administrator
+Python,C#,Kotlin,,C/C++,,React,Mobile App Developer (Android)
+C/C++,SQL,,JavaScript,Kotlin,,None,Mobile App Developer (Android)
+C#,Java,,,,,None,Game Developer
+Python,,,,Swift,HTML/CSS,React,Mobile App Developer (iOS)
+Java,C#,,,HTML/CSS,C/C++,React,Mobile App Developer (Android)
+C#,PHP,C/C++,,,Java,None,Game Developer
+Python,HTML/CSS,,,Java,,None,Cybersecurity Analyst
+JavaScript,Swift,,,Python,HTML/CSS,React,Mobile App Developer (iOS)
+Python,HTML/CSS,C#,C/C++,,Swift,None,Mobile App Developer (iOS)
+Java,Kotlin,,,C#,C/C++,None,Mobile App Developer (Android)
+JavaScript,Swift,,,,,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,Kotlin,Python,,,None,Mobile App Developer (Android)
+Java,,Swift,,PHP,,None,Mobile App Developer (iOS)
+C#,Python,,JavaScript,PHP,,None,Game Developer
+Python,C#,,PHP,,SQL,None,Database Administrator
+Python,Swift,,HTML/CSS,C#,C/C++,None,Mobile App Developer (iOS)
+Java,Swift,,,,PHP,React,Mobile App Developer (iOS)
+Python,Swift,,Java,,,None,Mobile App Developer (iOS)
+C#,Java,,,,HTML/CSS,None,Game Developer
+Java,PHP,,,,SQL,React,Mobile App Developer (Android)
+JavaScript,C#,Python,PHP,C/C++,,React,Front-End Developer
+C/C++,Kotlin,,,C#,,React,Mobile App Developer (Android)
+JavaScript,C#,,HTML/CSS,Swift,,None,Mobile App Developer (iOS)
+Python,PHP,,C#,,SQL,None,Database Administrator
+Python,,,Swift,SQL,JavaScript,React,Mobile App Developer (iOS)
+JavaScript,C/C++,,,,SQL,None,Database Administrator
+C#,Kotlin,Python,Swift,SQL,,React,Mobile App Developer (iOS)
+Python,Swift,,Kotlin,C/C++,,None,Mobile App Developer (iOS)
+JavaScript,C/C++,,,Java,,React,Front-End Developer
+C/C++,,,,Python,JavaScript,None,Game Developer
+JavaScript,,,SQL,Java,,None,Database Administrator
+C/C++,PHP,,,,C#,None,Game Developer
+C/C++,Python,,,,,None,Game Developer
+Python,Swift,,,,,React,Mobile App Developer (iOS)
+C/C++,Java,,,Python,,None,Game Developer
+C/C++,Python,,,,,None,Game Developer
+C#,C/C++,PHP,JavaScript,HTML/CSS,,None,Game Developer
+JavaScript,HTML/CSS,,,,PHP,React,Front-End Developer
+Python,,C/C++,,,Kotlin,None,Mobile App Developer (Android)
+Python,SQL,,PHP,C#,,None,Database Administrator
+JavaScript,Java,Swift,,,PHP,None,Mobile App Developer (iOS)
+Python,Java,HTML/CSS,,,PHP,None,Cybersecurity Analyst
+C#,JavaScript,,,,,None,Game Developer
+C#,JavaScript,,,SQL,,None,Database Administrator
+JavaScript,SQL,,Swift,PHP,,React,Mobile App Developer (iOS)
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+C/C++,SQL,,,,C#,None,Database Administrator
+C/C++,C#,,,,,None,Game Developer
+Python,Swift,,PHP,,Kotlin,None,Mobile App Developer (iOS)
+Python,Kotlin,,,,HTML/CSS,None,Mobile App Developer (Android)
+Python,Swift,,,,,React,Mobile App Developer (iOS)
+Java,C/C++,,,Swift,,None,Mobile App Developer (iOS)
+Java,C/C++,,,SQL,,None,Mobile App Developer (Android)
+Java,HTML/CSS,Swift,,,,None,Mobile App Developer (iOS)
+Python,Swift,,HTML/CSS,,Kotlin,None,Mobile App Developer (iOS)
+C#,Java,,,,,None,Game Developer
+C/C++,Kotlin,,,Java,,None,Mobile App Developer (Android)
+JavaScript,C/C++,Python,PHP,,,React,Front-End Developer
+Python,C#,Kotlin,,C/C++,,React,Mobile App Developer (Android)
+C/C++,Swift,PHP,,,,None,Mobile App Developer (iOS)
+JavaScript,Python,,,PHP,,React,Front-End Developer
+C/C++,C#,Java,JavaScript,,PHP,None,Game Developer
+C#,JavaScript,,,,,None,Game Developer
+C/C++,Kotlin,,,,,React,Mobile App Developer (Android)
+C/C++,C#,,,,,None,Game Developer
+C#,PHP,Java,,SQL,Kotlin,None,Mobile App Developer (Android)
+C#,Java,,,PHP,JavaScript,None,Game Developer
+C/C++,,,,,JavaScript,None,Game Developer
+C#,PHP,,Kotlin,,,None,Mobile App Developer (Android)
+JavaScript,C#,C/C++,SQL,HTML/CSS,,None,Database Administrator
+Python,Swift,,PHP,,C#,React,Mobile App Developer (iOS)
+Java,HTML/CSS,,,,,React,Mobile App Developer (Android)
+C/C++,,,JavaScript,Python,Swift,None,Mobile App Developer (iOS)
+Python,HTML/CSS,,,SQL,Java,None,Database Administrator
+C/C++,PHP,,,JavaScript,,None,Game Developer
+Python,C#,PHP,Kotlin,HTML/CSS,,None,Mobile App Developer (Android)
+C/C++,SQL,HTML/CSS,,Python,Java,None,Database Administrator
+Python,PHP,,Swift,,,None,Mobile App Developer (iOS)
+Java,,,,,,None,Mobile App Developer (Android)
+Java,C/C++,,SQL,,,None,Mobile App Developer (Android)
+JavaScript,C/C++,,,,,React,Front-End Developer
+Python,JavaScript,Kotlin,,,,React,Mobile App Developer (Android)
+Java,JavaScript,,,Kotlin,,None,Mobile App Developer (Android)
+C#,Python,,Kotlin,,,None,Mobile App Developer (Android)
+Python,Kotlin,,JavaScript,,Swift,None,Mobile App Developer (iOS)
+Java,PHP,,,,,React,Mobile App Developer (Android)
+JavaScript,Kotlin,,Swift,,HTML/CSS,None,Mobile App Developer (iOS)
+C#,Kotlin,,C/C++,Swift,,React,Mobile App Developer (iOS)
+C/C++,HTML/CSS,Swift,,,,React,Mobile App Developer (iOS)
+JavaScript,Swift,Python,SQL,,,None,Mobile App Developer (iOS)
+Python,Kotlin,HTML/CSS,Swift,,JavaScript,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,Python,,,,None,Game Developer
+C/C++,JavaScript,,,,,None,Game Developer
+C#,SQL,C/C++,Python,,PHP,None,Database Administrator
+JavaScript,,,,,Python,React,Front-End Developer
+Python,Java,,,,Swift,None,Mobile App Developer (iOS)
+C#,C/C++,,Swift,HTML/CSS,,None,Mobile App Developer (iOS)
+C#,Swift,,,Kotlin,,None,Mobile App Developer (iOS)
+Java,Swift,C/C++,SQL,Kotlin,,None,Mobile App Developer (iOS)
+JavaScript,Python,,,SQL,,None,Database Administrator
+Java,Swift,,C#,,JavaScript,None,Mobile App Developer (iOS)
+Python,Kotlin,PHP,SQL,,HTML/CSS,React,Mobile App Developer (Android)
+Java,C/C++,SQL,PHP,C#,Swift,None,Mobile App Developer (iOS)
+C/C++,Java,Python,,,,None,Game Developer
+JavaScript,HTML/CSS,,SQL,,Python,None,Database Administrator
+Java,HTML/CSS,SQL,,JavaScript,,None,Mobile App Developer (Android)
+Java,Swift,Kotlin,,C/C++,C#,None,Mobile App Developer (iOS)
+C#,Kotlin,PHP,,Java,HTML/CSS,React,Mobile App Developer (Android)
+C#,Kotlin,,HTML/CSS,Swift,Python,None,Mobile App Developer (iOS)
+C#,Java,Swift,,HTML/CSS,,None,Mobile App Developer (iOS)
+JavaScript,Kotlin,Java,,,,None,Mobile App Developer (Android)
+C/C++,PHP,Java,,HTML/CSS,Python,None,Game Developer
+C/C++,HTML/CSS,,PHP,C#,,None,Game Developer
+C#,JavaScript,,,,,None,Game Developer
+C#,JavaScript,,PHP,,Java,None,Game Developer
+C/C++,SQL,Java,,Kotlin,HTML/CSS,React,Mobile App Developer (Android)
+Java,Swift,,HTML/CSS,,SQL,None,Mobile App Developer (iOS)
+C#,SQL,Java,,C/C++,,None,Database Administrator
+Java,,,,,,React,Mobile App Developer (Android)
+Java,HTML/CSS,,JavaScript,SQL,,None,Mobile App Developer (Android)
+Java,HTML/CSS,,,Python,Swift,None,Mobile App Developer (iOS)
+C/C++,Swift,,Java,Kotlin,,None,Mobile App Developer (iOS)
+C#,HTML/CSS,Python,,Java,,None,Game Developer
+Java,SQL,,,,C/C++,None,Mobile App Developer (Android)
+C/C++,SQL,,,Java,HTML/CSS,None,Database Administrator
+C/C++,JavaScript,,,Swift,Java,None,Mobile App Developer (iOS)
+C/C++,Kotlin,,HTML/CSS,,,None,Mobile App Developer (Android)
+C/C++,Python,HTML/CSS,SQL,,,None,Database Administrator
+C#,JavaScript,,,Python,C/C++,None,Game Developer
+Java,HTML/CSS,,,,,None,Mobile App Developer (Android)
+JavaScript,C/C++,,PHP,,,React,Front-End Developer
+C/C++,Python,,,,,None,Game Developer
+C#,SQL,Java,Kotlin,HTML/CSS,Swift,None,Mobile App Developer (iOS)
+C/C++,Swift,,SQL,,,None,Mobile App Developer (iOS)
+C/C++,Python,,,,PHP,None,Game Developer
+Python,Swift,HTML/CSS,,,C#,None,Mobile App Developer (iOS)
+JavaScript,,,Java,,C#,None,Front-End Developer
+C#,,,,,,None,Game Developer
+JavaScript,C#,Python,SQL,Kotlin,,React,Mobile App Developer (Android)
+Java,SQL,,,JavaScript,HTML/CSS,None,Mobile App Developer (Android)
+JavaScript,PHP,,Kotlin,,,None,Mobile App Developer (Android)
+C/C++,Kotlin,C#,,Java,,None,Mobile App Developer (Android)
+C#,Python,,C/C++,,SQL,None,Database Administrator
+C#,HTML/CSS,,,,,None,Game Developer
+C/C++,Java,,JavaScript,,,None,Game Developer
+C#,C/C++,,,,Kotlin,None,Mobile App Developer (Android)
+Java,Python,C/C++,,,PHP,None,Mobile App Developer (Android)
+C#,Swift,,,,,None,Mobile App Developer (iOS)
+Python,HTML/CSS,Java,,,,None,Cybersecurity Analyst
+C/C++,Python,SQL,Java,,,None,Database Administrator
+Java,Python,Kotlin,,C/C++,Swift,React,Mobile App Developer (iOS)
+Java,,,,,,None,Mobile App Developer (Android)
+JavaScript,Swift,,,C/C++,HTML/CSS,None,Mobile App Developer (iOS)
+C/C++,Kotlin,JavaScript,,,,None,Mobile App Developer (Android)
+Java,,,SQL,C/C++,JavaScript,None,Mobile App Developer (Android)
+C#,Java,Python,,,,None,Game Developer
+C#,Python,,Java,,,None,Game Developer
+JavaScript,Java,PHP,Swift,,C/C++,React,Mobile App Developer (iOS)
+C#,SQL,Python,,Swift,JavaScript,React,Mobile App Developer (iOS)
+JavaScript,,Swift,,PHP,,None,Mobile App Developer (iOS)
+Python,,,,HTML/CSS,Swift,None,Mobile App Developer (iOS)
+JavaScript,Kotlin,,Python,Java,C#,React,Mobile App Developer (Android)
+JavaScript,,,,Swift,HTML/CSS,None,Mobile App Developer (iOS)
+C#,HTML/CSS,,Kotlin,Java,,None,Mobile App Developer (Android)
+Python,JavaScript,,,,Java,None,Cybersecurity Analyst
+Python,C#,Kotlin,HTML/CSS,PHP,,None,Mobile App Developer (Android)
+Java,Python,,,,,None,Mobile App Developer (Android)
+Java,Swift,,SQL,PHP,,None,Mobile App Developer (iOS)
+JavaScript,SQL,Python,PHP,,,None,Database Administrator
+JavaScript,PHP,,,,Java,None,Front-End Developer
+C#,JavaScript,,,,,None,Game Developer
+Python,C#,SQL,,,,None,Database Administrator
+Python,C#,,HTML/CSS,,SQL,None,Database Administrator
+C/C++,C#,Swift,Java,,SQL,None,Mobile App Developer (iOS)
+C/C++,SQL,,,C#,Swift,None,Mobile App Developer (iOS)
+C/C++,SQL,HTML/CSS,C#,,,None,Database Administrator
+Python,Swift,,,,,None,Mobile App Developer (iOS)
+C/C++,JavaScript,,Swift,,,None,Mobile App Developer (iOS)
+C/C++,C#,,SQL,,,None,Database Administrator
+C/C++,C#,,,,Swift,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,Java,,,JavaScript,None,Game Developer
+Python,C/C++,Java,JavaScript,Swift,,React,Mobile App Developer (iOS)
+C/C++,Kotlin,,,,,React,Mobile App Developer (Android)
+C#,,,JavaScript,,,None,Game Developer
+C#,,,,,SQL,None,Database Administrator
+C/C++,JavaScript,,,,,None,Game Developer
+C/C++,JavaScript,PHP,,,,None,Game Developer
+Python,JavaScript,,,SQL,Kotlin,None,Mobile App Developer (Android)
+Python,SQL,Java,,,,None,Database Administrator
+JavaScript,Java,,C#,HTML/CSS,Swift,None,Mobile App Developer (iOS)
+JavaScript,PHP,,,,,React,Front-End Developer
+JavaScript,SQL,Java,,,Kotlin,None,Mobile App Developer (Android)
+C/C++,Java,Python,,HTML/CSS,,None,Game Developer
+JavaScript,Swift,PHP,C#,,Kotlin,None,Mobile App Developer (iOS)
+C#,PHP,Java,,,SQL,None,Database Administrator
+C#,,,HTML/CSS,C/C++,,None,Game Developer
+Python,SQL,,C#,,,None,Database Administrator
+Python,C#,SQL,Kotlin,,,None,Mobile App Developer (Android)
+JavaScript,Kotlin,Java,,,C/C++,None,Mobile App Developer (Android)
+Java,,,,,,React,Mobile App Developer (Android)
+C#,PHP,SQL,Kotlin,,,None,Mobile App Developer (Android)
+Python,HTML/CSS,JavaScript,,Kotlin,,None,Mobile App Developer (Android)
+C/C++,Swift,,,,JavaScript,React,Mobile App Developer (iOS)
+Java,HTML/CSS,PHP,Swift,,,React,Mobile App Developer (iOS)
+JavaScript,Java,,,HTML/CSS,,None,Front-End Developer
+Java,SQL,Python,,JavaScript,Kotlin,React,Mobile App Developer (Android)
+C#,Python,,Java,,,None,Game Developer
+C/C++,Python,,Java,,,None,Game Developer
+Python,C#,,,,C/C++,None,Cybersecurity Analyst
+Java,Swift,C/C++,SQL,C#,Python,React,Mobile App Developer (iOS)
+Java,,HTML/CSS,,,C#,None,Mobile App Developer (Android)
+Python,C/C++,,JavaScript,PHP,,None,Cybersecurity Analyst
+C#,,C/C++,,Kotlin,,None,Mobile App Developer (Android)
+C/C++,Kotlin,Java,,C#,,React,Mobile App Developer (Android)
+Python,SQL,Kotlin,C/C++,,,None,Mobile App Developer (Android)
+JavaScript,SQL,,,,,None,Database Administrator
+JavaScript,Kotlin,SQL,,,,React,Mobile App Developer (Android)
+C/C++,PHP,,,,,None,Game Developer
+JavaScript,C#,Swift,,,,React,Mobile App Developer (iOS)
+JavaScript,PHP,,,,,None,Front-End Developer
+JavaScript,C#,Python,PHP,Swift,,None,Mobile App Developer (iOS)
+C#,HTML/CSS,,,,,None,Game Developer
+JavaScript,Swift,Java,,,,React,Mobile App Developer (iOS)
+C/C++,SQL,,PHP,,,None,Database Administrator
+C#,Swift,C/C++,,Python,,None,Mobile App Developer (iOS)
+C/C++,JavaScript,Python,HTML/CSS,Swift,,None,Mobile App Developer (iOS)
+Java,C#,PHP,,,,React,Mobile App Developer (Android)
+Python,,C#,,,,None,Cybersecurity Analyst
+C#,Kotlin,PHP,Java,SQL,Swift,React,Mobile App Developer (iOS)
+C/C++,Python,Java,,Kotlin,Swift,React,Mobile App Developer (iOS)
+C#,C/C++,,,JavaScript,Swift,None,Mobile App Developer (iOS)
+C#,Java,,Python,,,None,Game Developer
+Java,Python,,HTML/CSS,C/C++,C#,React,Mobile App Developer (Android)
+C#,HTML/CSS,,,Kotlin,,React,Mobile App Developer (Android)
+Java,HTML/CSS,,SQL,,PHP,None,Mobile App Developer (Android)
+Python,Kotlin,,,HTML/CSS,,None,Mobile App Developer (Android)
+JavaScript,C/C++,C#,,HTML/CSS,,None,Front-End Developer
+JavaScript,Java,Swift,SQL,C/C++,PHP,React,Mobile App Developer (iOS)
+Python,JavaScript,,,Kotlin,,React,Mobile App Developer (Android)
+Java,,,HTML/CSS,SQL,,None,Mobile App Developer (Android)
+JavaScript,,,HTML/CSS,C#,Kotlin,React,Mobile App Developer (Android)
+C#,HTML/CSS,,Python,,,None,Game Developer
+Java,C/C++,Python,,,,React,Mobile App Developer (Android)
+Java,Python,SQL,C#,,,React,Mobile App Developer (Android)
+C#,PHP,JavaScript,Python,,,None,Game Developer
+C#,Java,Python,,HTML/CSS,Kotlin,None,Mobile App Developer (Android)
+JavaScript,HTML/CSS,,,PHP,,React,Front-End Developer
+Python,HTML/CSS,Kotlin,,JavaScript,C/C++,React,Mobile App Developer (Android)
+JavaScript,Kotlin,Python,,,,None,Mobile App Developer (Android)
+Python,PHP,,,Swift,,None,Mobile App Developer (iOS)
+Java,HTML/CSS,JavaScript,,,Python,None,Mobile App Developer (Android)
+JavaScript,Python,Swift,C#,,PHP,None,Mobile App Developer (iOS)
+Java,C/C++,HTML/CSS,,,,None,Mobile App Developer (Android)
+Python,Swift,,,C/C++,,None,Mobile App Developer (iOS)
+JavaScript,Swift,,,,,None,Mobile App Developer (iOS)
+C/C++,Kotlin,,Swift,,,React,Mobile App Developer (iOS)
+JavaScript,PHP,,Kotlin,,,React,Mobile App Developer (Android)
+JavaScript,C/C++,,C#,,,React,Front-End Developer
+Java,,JavaScript,PHP,,,None,Mobile App Developer (Android)
+Java,JavaScript,,,,SQL,React,Mobile App Developer (Android)
+Python,JavaScript,,,C/C++,,None,Cybersecurity Analyst
+Python,JavaScript,,SQL,,C/C++,None,Database Administrator
+Python,JavaScript,C#,Kotlin,Java,,None,Mobile App Developer (Android)
+Java,,C#,,JavaScript,,None,Mobile App Developer (Android)
+Python,Kotlin,SQL,HTML/CSS,,,None,Mobile App Developer (Android)
+Python,C/C++,,Kotlin,,,None,Mobile App Developer (Android)
+C#,JavaScript,,C/C++,,Swift,None,Mobile App Developer (iOS)
+Python,JavaScript,,,Swift,,React,Mobile App Developer (iOS)
+C#,C/C++,,,,Java,None,Game Developer
+JavaScript,,,C/C++,,,React,Front-End Developer
+JavaScript,,,,,,None,Front-End Developer
+JavaScript,SQL,Java,,,Python,None,Database Administrator
+C/C++,JavaScript,,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,Java,,C/C++,Python,Swift,None,Mobile App Developer (iOS)
+C#,Kotlin,,SQL,,HTML/CSS,None,Mobile App Developer (Android)
+Java,Python,,C/C++,Kotlin,HTML/CSS,None,Mobile App Developer (Android)
+JavaScript,Java,,Python,,,React,Front-End Developer
+JavaScript,C/C++,PHP,C#,,Kotlin,React,Mobile App Developer (Android)
+Java,Python,C/C++,,,SQL,None,Mobile App Developer (Android)
+Java,C#,,,,,None,Mobile App Developer (Android)
+C/C++,,SQL,PHP,,,None,Database Administrator
+JavaScript,C/C++,Python,,,SQL,None,Database Administrator
+JavaScript,Java,,,,C#,None,Front-End Developer
+C/C++,C#,,,,,None,Game Developer
+JavaScript,,Java,PHP,,SQL,None,Database Administrator
+C#,SQL,,,Python,,None,Database Administrator
+JavaScript,C#,,HTML/CSS,,,React,Front-End Developer
+JavaScript,C#,,Swift,,,None,Mobile App Developer (iOS)
+JavaScript,HTML/CSS,,C#,Kotlin,Java,None,Mobile App Developer (Android)
+C#,HTML/CSS,,,,,None,Game Developer
+Python,C/C++,Kotlin,,C#,,None,Mobile App Developer (Android)
+C#,Java,,,,Python,None,Game Developer
+Python,PHP,Kotlin,,,C#,None,Mobile App Developer (Android)
+C#,,,Swift,Kotlin,Python,React,Mobile App Developer (iOS)
+C/C++,Swift,,C#,,Java,None,Mobile App Developer (iOS)
+Java,JavaScript,,C#,,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,PHP,JavaScript,Swift,,None,Mobile App Developer (iOS)
+Python,SQL,PHP,,Kotlin,,None,Mobile App Developer (Android)
+C/C++,Python,,,,,None,Game Developer
+JavaScript,Java,Kotlin,C#,,,React,Mobile App Developer (Android)
+Python,C#,HTML/CSS,,C/C++,SQL,None,Database Administrator
+Java,C#,,,PHP,,None,Mobile App Developer (Android)
+Python,Kotlin,C/C++,HTML/CSS,C#,,None,Mobile App Developer (Android)
+Python,C#,Kotlin,,,,None,Mobile App Developer (Android)
+JavaScript,Python,,Swift,,,None,Mobile App Developer (iOS)
+JavaScript,HTML/CSS,,Python,,Java,React,Front-End Developer
+C#,,,Swift,Python,Java,React,Mobile App Developer (iOS)
+JavaScript,C#,,,SQL,,None,Database Administrator
+C/C++,,Java,,HTML/CSS,,None,Game Developer
+Java,Kotlin,JavaScript,SQL,,,None,Mobile App Developer (Android)
+Java,,,,,,React,Mobile App Developer (Android)
+C/C++,Java,HTML/CSS,,Python,,None,Game Developer
+Java,C#,,,SQL,C/C++,None,Mobile App Developer (Android)
+Python,C#,,,,Swift,None,Mobile App Developer (iOS)
+C/C++,PHP,,,JavaScript,,None,Game Developer
+Java,PHP,Python,JavaScript,,,None,Mobile App Developer (Android)
+Java,PHP,,,,Swift,None,Mobile App Developer (iOS)
+C/C++,,Java,Python,,,None,Game Developer
+Python,Java,,,,,None,Cybersecurity Analyst
+C#,HTML/CSS,,C/C++,,Kotlin,None,Mobile App Developer (Android)
+C#,SQL,,Kotlin,Python,JavaScript,None,Mobile App Developer (Android)
+Python,C/C++,,PHP,C#,,None,Cybersecurity Analyst
+C/C++,Kotlin,,HTML/CSS,,Python,None,Mobile App Developer (Android)
+C/C++,Swift,,,,Kotlin,React,Mobile App Developer (iOS)
+C/C++,PHP,,,JavaScript,SQL,None,Database Administrator
+Python,PHP,Java,,SQL,,None,Database Administrator
+Java,C/C++,SQL,,PHP,,None,Mobile App Developer (Android)
+Java,Kotlin,,,,C#,None,Mobile App Developer (Android)
+C#,Swift,,,,SQL,React,Mobile App Developer (iOS)
+JavaScript,C#,,Kotlin,,,None,Mobile App Developer (Android)
+C#,Kotlin,HTML/CSS,,,,None,Mobile App Developer (Android)
+Java,JavaScript,,,,PHP,React,Mobile App Developer (Android)
+Java,C/C++,,,,,None,Mobile App Developer (Android)
+Java,PHP,,,JavaScript,C#,None,Mobile App Developer (Android)
+C/C++,Java,,,PHP,,None,Game Developer
+C#,,Java,C/C++,,,None,Game Developer
+Java,Kotlin,,C#,,C/C++,None,Mobile App Developer (Android)
+JavaScript,PHP,SQL,Python,,,None,Database Administrator
+Java,SQL,,,C#,Python,React,Mobile App Developer (Android)
+JavaScript,C/C++,SQL,,,Java,None,Database Administrator
+Java,Kotlin,HTML/CSS,C/C++,,Python,None,Mobile App Developer (Android)
+C#,Python,,PHP,,,None,Game Developer
+C/C++,Kotlin,,Python,Swift,,React,Mobile App Developer (iOS)
+Java,,,,,Swift,None,Mobile App Developer (iOS)
+C/C++,Java,,,PHP,Kotlin,None,Mobile App Developer (Android)
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+C#,,,,,Python,None,Game Developer
+Python,,Java,Kotlin,HTML/CSS,,None,Mobile App Developer (Android)
+C/C++,PHP,,HTML/CSS,,SQL,None,Database Administrator
+C#,C/C++,,,Python,,None,Game Developer
+Java,SQL,,,,,None,Mobile App Developer (Android)
+JavaScript,Swift,SQL,,,Kotlin,None,Mobile App Developer (iOS)
+Python,Swift,Kotlin,,,,None,Mobile App Developer (iOS)
+C/C++,HTML/CSS,,,,,None,Game Developer
+C/C++,SQL,Java,PHP,,C#,None,Database Administrator
+Java,Swift,,Python,C/C++,,None,Mobile App Developer (iOS)
+C/C++,C#,,,Python,,None,Game Developer
+Python,C#,,,,,None,Cybersecurity Analyst
+C/C++,JavaScript,,SQL,,,None,Database Administrator
+Python,C/C++,,,PHP,SQL,None,Database Administrator
+C/C++,Python,Swift,PHP,SQL,,React,Mobile App Developer (iOS)
+C#,Python,JavaScript,,,Kotlin,None,Mobile App Developer (Android)
+JavaScript,PHP,Java,,,,React,Front-End Developer
+C/C++,JavaScript,,Swift,,,React,Mobile App Developer (iOS)
+C/C++,JavaScript,,,Python,,None,Game Developer
+Java,SQL,,Kotlin,HTML/CSS,C/C++,React,Mobile App Developer (Android)
+Java,C#,Swift,HTML/CSS,,,None,Mobile App Developer (iOS)
+C#,Python,,Swift,Kotlin,,React,Mobile App Developer (iOS)
+Java,HTML/CSS,,,,Python,React,Mobile App Developer (Android)
+JavaScript,Java,SQL,HTML/CSS,Kotlin,,React,Mobile App Developer (Android)
+C/C++,Kotlin,Java,,Python,PHP,React,Mobile App Developer (Android)
+C#,PHP,Java,,C/C++,,None,Game Developer
+C/C++,SQL,JavaScript,Java,,,None,Database Administrator
+Java,SQL,HTML/CSS,JavaScript,,,React,Mobile App Developer (Android)
+C#,Python,,,,HTML/CSS,None,Game Developer
+C/C++,,,,,,None,Game Developer
+Python,Swift,,,,,React,Mobile App Developer (iOS)
+Java,HTML/CSS,,,PHP,JavaScript,React,Mobile App Developer (Android)
+C/C++,SQL,,,,Java,None,Database Administrator
+JavaScript,Kotlin,,,C#,,None,Mobile App Developer (Android)
+JavaScript,Kotlin,,,Swift,Python,None,Mobile App Developer (iOS)
+Python,Swift,,Java,,,None,Mobile App Developer (iOS)
+C/C++,Python,Kotlin,Swift,PHP,HTML/CSS,None,Mobile App Developer (iOS)
+JavaScript,Swift,PHP,,,,None,Mobile App Developer (iOS)
+C/C++,PHP,,Java,Kotlin,SQL,React,Mobile App Developer (Android)
+C#,Python,,C/C++,,,None,Game Developer
+C#,,,Java,Python,C/C++,None,Game Developer
+Python,HTML/CSS,,,,,None,Cybersecurity Analyst
+Python,JavaScript,,Kotlin,,,React,Mobile App Developer (Android)
+C/C++,Python,,Kotlin,,PHP,React,Mobile App Developer (Android)
+C/C++,SQL,,HTML/CSS,Python,,None,Database Administrator
+Java,JavaScript,,,,,React,Mobile App Developer (Android)
+Python,SQL,C#,,,,None,Database Administrator
+Python,PHP,C/C++,Java,,JavaScript,None,Cybersecurity Analyst
+JavaScript,Python,Kotlin,,,,None,Mobile App Developer (Android)
+Java,,Python,,HTML/CSS,,None,Mobile App Developer (Android)
+C#,Swift,JavaScript,Kotlin,SQL,C/C++,React,Mobile App Developer (iOS)
+C#,,,,,,None,Game Developer
+Python,Java,,,SQL,,None,Database Administrator
+C/C++,SQL,C#,,Java,JavaScript,None,Database Administrator
+Java,Kotlin,SQL,PHP,,Swift,None,Mobile App Developer (iOS)
+C#,PHP,HTML/CSS,JavaScript,SQL,C/C++,None,Database Administrator
+JavaScript,C/C++,,Swift,,,None,Mobile App Developer (iOS)
+Java,Swift,,,C/C++,SQL,None,Mobile App Developer (iOS)
+C#,C/C++,SQL,Kotlin,,,React,Mobile App Developer (Android)
+C#,Kotlin,,JavaScript,,,React,Mobile App Developer (Android)
+Java,C/C++,,,,SQL,None,Mobile App Developer (Android)
+Java,C#,,PHP,,,React,Mobile App Developer (Android)
+Python,JavaScript,,,,C#,None,Cybersecurity Analyst
+Python,C/C++,SQL,,C#,HTML/CSS,None,Database Administrator
+Python,C#,C/C++,Kotlin,,JavaScript,None,Mobile App Developer (Android)
+Java,Python,,C/C++,JavaScript,,None,Mobile App Developer (Android)
+C#,JavaScript,HTML/CSS,,,,None,Game Developer
+Python,HTML/CSS,C/C++,,,,None,Cybersecurity Analyst
+JavaScript,PHP,,,,,React,Front-End Developer
+Java,C/C++,,,,,React,Mobile App Developer (Android)
+Java,PHP,,Swift,HTML/CSS,,None,Mobile App Developer (iOS)
+C#,Java,Swift,,JavaScript,HTML/CSS,None,Mobile App Developer (iOS)
+C#,C/C++,HTML/CSS,Swift,,,React,Mobile App Developer (iOS)
+C/C++,SQL,,Kotlin,,Java,None,Mobile App Developer (Android)
+Python,HTML/CSS,C#,,,Kotlin,None,Mobile App Developer (Android)
+C/C++,Kotlin,C#,,,,None,Mobile App Developer (Android)
+JavaScript,Swift,PHP,,,,None,Mobile App Developer (iOS)
+Java,Swift,,,C#,,React,Mobile App Developer (iOS)
+C/C++,,,,,C#,None,Game Developer
+Java,SQL,Python,,,JavaScript,None,Mobile App Developer (Android)
+Python,JavaScript,,,,,None,Cybersecurity Analyst
+JavaScript,C/C++,,,,,None,Front-End Developer
+JavaScript,PHP,,,,,React,Front-End Developer
+Java,HTML/CSS,,JavaScript,,,None,Mobile App Developer (Android)
+Python,Swift,,C/C++,,,None,Mobile App Developer (iOS)
+C/C++,,,,,PHP,None,Game Developer
+JavaScript,C#,,,,Java,React,Front-End Developer
+Java,HTML/CSS,,,,JavaScript,None,Mobile App Developer (Android)
+Python,SQL,,,PHP,Kotlin,None,Mobile App Developer (Android)
+C/C++,,,,,HTML/CSS,None,Game Developer
+Java,Swift,PHP,HTML/CSS,C#,JavaScript,None,Mobile App Developer (iOS)
+Java,,,Python,,,None,Mobile App Developer (Android)
+Java,C/C++,,,C#,HTML/CSS,None,Mobile App Developer (Android)
+Python,PHP,Kotlin,JavaScript,,,None,Mobile App Developer (Android)
+Python,SQL,,,JavaScript,Java,None,Database Administrator
+C/C++,Kotlin,Java,Python,C#,,React,Mobile App Developer (Android)
+JavaScript,Java,,,,,None,Front-End Developer
+C/C++,Java,,,,JavaScript,None,Game Developer
+Python,HTML/CSS,Swift,,Kotlin,,React,Mobile App Developer (iOS)
+Java,JavaScript,Python,,PHP,,React,Mobile App Developer (Android)
+C/C++,SQL,,,,PHP,None,Database Administrator
+Java,,,,SQL,HTML/CSS,None,Mobile App Developer (Android)
+JavaScript,C#,,,,,None,Front-End Developer
+C#,PHP,,SQL,,,None,Database Administrator
+C#,,,,,Swift,React,Mobile App Developer (iOS)
+JavaScript,C#,SQL,,Python,Java,None,Database Administrator
+C/C++,Swift,SQL,,HTML/CSS,,None,Mobile App Developer (iOS)
+C#,C/C++,,,,HTML/CSS,None,Game Developer
+JavaScript,Swift,,,,,None,Mobile App Developer (iOS)
+JavaScript,PHP,C/C++,,,,React,Front-End Developer
+Java,JavaScript,,PHP,,SQL,None,Mobile App Developer (Android)
+C#,Swift,,Java,SQL,HTML/CSS,React,Mobile App Developer (iOS)
+Java,Kotlin,,PHP,SQL,,None,Mobile App Developer (Android)
+C/C++,PHP,Java,,,,None,Game Developer
+Java,Swift,,,HTML/CSS,,None,Mobile App Developer (iOS)
+JavaScript,Kotlin,C#,,HTML/CSS,,None,Mobile App Developer (Android)
+C/C++,HTML/CSS,,,,,None,Game Developer
+Python,C#,,,,PHP,None,Cybersecurity Analyst
+Java,C/C++,,Kotlin,C#,,React,Mobile App Developer (Android)
+C#,Swift,,SQL,,Kotlin,None,Mobile App Developer (iOS)
+C#,Kotlin,,,PHP,,None,Mobile App Developer (Android)
+Java,Swift,SQL,JavaScript,HTML/CSS,,None,Mobile App Developer (iOS)
+Python,Java,,,,,None,Cybersecurity Analyst
+Python,C/C++,,,JavaScript,SQL,None,Database Administrator
+C#,C/C++,,Python,Java,Kotlin,None,Mobile App Developer (Android)
+C/C++,JavaScript,,HTML/CSS,C#,,None,Game Developer
+C#,,,,,JavaScript,None,Game Developer
+C/C++,SQL,,,JavaScript,,None,Database Administrator
+JavaScript,SQL,,,C#,,None,Database Administrator
+Java,Python,,PHP,,,React,Mobile App Developer (Android)
+Python,Java,PHP,,,,None,Cybersecurity Analyst
+JavaScript,Kotlin,,,,,None,Mobile App Developer (Android)
+C/C++,,Kotlin,PHP,JavaScript,Swift,None,Mobile App Developer (iOS)
+C/C++,Swift,SQL,Kotlin,C#,Java,None,Mobile App Developer (iOS)
+C#,Java,Python,PHP,,,None,Game Developer
+C#,SQL,Kotlin,,,,None,Mobile App Developer (Android)
+Java,HTML/CSS,,,JavaScript,SQL,None,Mobile App Developer (Android)
+C#,PHP,,,Python,,None,Game Developer
+Java,C/C++,,,,Kotlin,None,Mobile App Developer (Android)
+Java,C#,,,,SQL,None,Mobile App Developer (Android)
+Java,C#,,,,Kotlin,None,Mobile App Developer (Android)
+Python,HTML/CSS,C#,,,PHP,None,Cybersecurity Analyst
+JavaScript,Swift,,C#,PHP,HTML/CSS,React,Mobile App Developer (iOS)
+Java,JavaScript,Swift,,HTML/CSS,,None,Mobile App Developer (iOS)
+C/C++,Java,JavaScript,SQL,Swift,Kotlin,None,Mobile App Developer (iOS)
+C#,,PHP,,,,None,Game Developer
+JavaScript,Swift,,C/C++,,HTML/CSS,None,Mobile App Developer (iOS)
+C#,SQL,,,,,None,Database Administrator
+Python,PHP,,JavaScript,,Kotlin,None,Mobile App Developer (Android)
+C/C++,JavaScript,,SQL,,,None,Database Administrator
